@@ -2,3 +2,7 @@
 2. complier
 3. Initialize instance varaibles
 Instance varaible always get a default value, e.g. String null, int 0, float 0.0, boolean false.
+
+~~~
+f
+~~~
