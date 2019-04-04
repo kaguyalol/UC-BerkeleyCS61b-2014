@@ -11,5 +11,8 @@ Timeline
 
 *04/04/2019*
 - [x] lecture note 1
-- [ ] reading: Sierra & Bates, pp. 1–9, 18–19, 84
+- [x] reading: Sierra & Bates, pp. 1–9, 18–19, 84
+- [ ] lecture note 2
+- [ ] reading: S & B, Chapter 2; pp. 54–58, 154–160, 661, 669
+- [ ] lab 1
 
