@@ -1,0 +1,10 @@
+1. jvm
+2. complier
+3. Initialize instance varaibles
+Instance varaible always get a default value, e.g. String null, int 0, float 0.0, boolean false.
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
