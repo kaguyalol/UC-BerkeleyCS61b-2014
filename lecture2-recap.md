@@ -53,5 +53,39 @@ class SimpleIO {
 }
 ```
 
-4. `null` is a value; _garbage collection_: an object has only one reference, and the reference is broke, then it is eligible for garbage collection.
+4. Garbage Collection
+
+`null` is a value; _garbage collection_: an object has only one reference, and the reference is broke, then it is eligible for garbage collection.
+
+```java
+Book b = new Book();
+Book c = new Book();
+```
+b -> object 1\
+c -> object 2
+
+active references: 2\
+reachable objects:2
+
+```java
+b = c;
+```
+
+active references:2\
+reachable objects:1\
+abondaned objects:1
+
+*object 1 is in garbage collection*
+
+```java
+c = null;
+```
+
+active references:1\
+null reference:1\
+reachable objects:1\
+abondaned objects:1\
+
+
+
 
