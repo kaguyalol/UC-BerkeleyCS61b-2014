@@ -84,7 +84,7 @@ c = null;
 active references:1\
 null reference:1\
 reachable objects:1\
-abondaned objects:1\
+abondaned objects:1
 
 
 
