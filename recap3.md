@@ -8,6 +8,11 @@ Math mathObject = new Math();
 Complie Error will occurs, since constructor of `Math` is _private_.
 
 ```java
+int x = Math.round(42.2);
+```
+static method don't need instances, only need the _class_.
+
+```java
 Human.printHumans();
 ```
 
