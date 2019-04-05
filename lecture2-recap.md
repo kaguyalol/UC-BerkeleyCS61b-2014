@@ -6,7 +6,7 @@ String s = new String();
 
 composes 3 steps, 
   - chunk a memory for `s` to store `String`
-  - construct a new object from `String`
+  - construct a new object for new `String` object on the heap
   - s point/reference to the new object
   
 ```java
