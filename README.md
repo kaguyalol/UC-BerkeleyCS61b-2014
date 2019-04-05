@@ -14,7 +14,19 @@ Timeline
 - [x] reading: Sierra & Bates, pp. 1–9, 18–19, 84
 - [x] recap 1
 - [x] lecture note 2
-- [ ] reading: S & B, Chapter 2; pp. 54–58, 154–160, 661, 669
-- [ ] recap 2 
-- [ ] lab 1
+- [x] reading: S & B, Chapter 2; pp. 54–58, 154–160, 661, 669
+- [x] recap 2 
+- [x] lab 1
+- [x] video1 50%
+
+*04/05/2019*
+- [ ] lecture note 3
+- [ ] reading: S & B, pp. 71–74, 76, 85, 240–249, 273–281, 308–309
+- [ ] recap 3
+- [ ] lecture note 4
+- [ ] reading: S & B, pp. 10–14, 49–53, 75, 78–79, 86, 117, 286–287, 292, 660	
+- [ ] recap 4 
+- [ ] hw 1
+- [ ] video1 100%
+- [ ] video2
 
