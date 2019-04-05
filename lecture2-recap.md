@@ -87,5 +87,15 @@ reachable objects:1\
 abondaned objects:1
 
 
+5. String
+
+```java
+String s = "0";
+for (int i = 0; i < 10; i++) {
+    s = s + i;
+}
+```
+
+JVM will creates _10_ objects in _string pool_, but garbage collector will not go there, which will waste memory.
 
 
