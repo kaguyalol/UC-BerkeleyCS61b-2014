@@ -7,7 +7,7 @@ String s = new String();
 composes 3 steps:
   - chunk a memory for `s`, a reference variable(_not object itself_)
   - construct a new object for new `String` object on the heap
-  - s point/reference to the new object
+  - s points/refers to the new object
   
 ```java
 s = "wow";
@@ -52,4 +52,6 @@ class SimpleIO {
     }
 }
 ```
+
+4. `null` is a value; _garbage collection_: an object has only one reference, and the reference is broke, then it is eligible for garbage collection.
 
