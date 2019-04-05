@@ -96,7 +96,7 @@ for (int i = 0; i < 10; i++) {
 }
 ```
 
-JVM will creates _10_ objects in _string pool_, but garbage collector will not go there, which will waste memory.
+JVM will creates _10_ objects in _string pool_, but garbage collector will not go there, which will waste memory.(Efficiently, StringBuffer/StringBuider)
 
 
 6. Wrappers(Immutable)
