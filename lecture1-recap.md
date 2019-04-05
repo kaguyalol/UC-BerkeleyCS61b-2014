@@ -1,27 +1,27 @@
 1. jvm vs complier
-complier runs `javac` to convert source codes to bytecodes, then jvm runs `.class' file(bytecodes).
+complier runs `javac` to convert source codes to bytecodes, then jvm runs `.class` file(bytecodes).
 
 2.  Initialize instance varaibles
 Instance varaible always get a default value, e.g. String null, int 0, float 0.0, boolean false.
 
 ```
-class PoorDog{
+class PoorDog {
     private int size;
     private String name;
     
-    public int getSize(){
+    public int getSize() {
         return size;
     }
     
-    public String getName(){
+    public String getName() {
         return name;
     }
 }
 ```
 
 ```
-public class PoorDogTest{
-    public static void main(String[] args){
+public class PoorDogTest {
+    public static void main(String[] args) {
         PoorDog one = new PoorDog();
         System.out.println(one.getSize());
         System.out.println(one.getName());
@@ -30,6 +30,7 @@ public class PoorDogTest{
 ```
 
 output:
+
 ```
 0
 null
