@@ -1,6 +1,6 @@
 1. JVM vs Complier
 
-complier runs `javac` to convert source codes to bytecodes, then jvm runs `.class` file(bytecodes).
+Complier runs `javac` to convert source codes to bytecodes, then jvm runs `.class` file(bytecodes).
 
 2.  Initialize instance varaibles
 Instance varaible always get a default value, e.g. String null, int 0, float 0.0, boolean false.
