@@ -1,5 +1,11 @@
 1. static method
 static method does not pass an object as a parameter, it does not pass `this`.
+e.g. Methods in `Math` class don't use any _instance variables_, methods in  `Math` class are all _static_.
+
+```java
+Math mathObject = new Math();
+```
+Complie Error will occurs, since constructor of `Math` is _private_.
 
 ```java
 Human.printHumans();
