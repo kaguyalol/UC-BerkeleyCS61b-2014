@@ -1,4 +1,5 @@
-1. jvm vs complier
+1. JVM vs Complier
+
 complier runs `javac` to convert source codes to bytecodes, then jvm runs `.class` file(bytecodes).
 
 2.  Initialize instance varaibles
