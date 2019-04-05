@@ -4,8 +4,8 @@
 String s = new String();
 ```
 
-composes 3 steps, 
-  - chunk a memory for `s`, a refrence variable(_not object itself_)
+composes 3 steps:
+  - chunk a memory for `s`, a reference variable(_not object itself_)
   - construct a new object for new `String` object on the heap
   - s point/reference to the new object
   
