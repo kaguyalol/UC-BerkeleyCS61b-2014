@@ -34,7 +34,7 @@ Timeline
 
 *04/06/2019*
 - [x] reading: S & B, pp. 10–14, 49–53, 75, 78–79, 86, 117, 286–287, 292, 660	
-- [ ] lecture note 5
+- [x] lecture note 5
 - [ ] reading: Sierra & Bates pp. 59-62, 83, 114-116, 293-300, 670
 - [ ] recap 4 
 - [ ] lab 2
