@@ -42,4 +42,25 @@ int unWrapped = iWrap.intValue();
   int x = 10; // bits are 00001010
   x = ~x; // bits are now 11110101
   ```
+  - Bitwise AND OR XOR operations
+  ```java
+  int x = 10; // bits are 00001010
+  int y = 6; // bits are 00000110
+  
+  // AND
+  int a = x & y; // bits are 00000010
+  // OR
+  int a = x | y; // bits are 00001110
+  // XOR
+  int a = x ^ y; // bits are 00001100
+  ```
+  
+  - Shift operator
+  ```java
+  int x = -11; // bits are 11110101
+  ```
+  
+    * Shift _left_ means multiplies a number by a power of two, e.g. `x << 3` -> 10*(2^3);
+    * Shift _right_ means devides a number by a power of two, e.g. `x >> 3` -> 10/(2^3);
+    
 
