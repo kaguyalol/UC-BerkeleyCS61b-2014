@@ -28,12 +28,11 @@ Timeline
 - [x] reading: S & B, pp. 71–74, 76, 85, 240–249, 273–281, 308–309
 - [x] recap 3
 - [x] video3
-- [ ] lecture note 4
+- [x] lecture note 4
 - [ ] reading: S & B, pp. 10–14, 49–53, 75, 78–79, 86, 117, 286–287, 292, 660	
 - [ ] recap 4 
 
 *04/06/2019*
-- [ ] lecture note 4
 - [ ] reading: S & B, pp. 10–14, 49–53, 75, 78–79, 86, 117, 286–287, 292, 660	
 - [ ] lecture note 5
 - [ ] reading: Sierra & Bates pp. 59-62, 83, 114-116, 293-300, 670
