@@ -25,8 +25,9 @@ Timeline
 - [x] read hw1 discussion
 - [x] video2
 - [x] lecture note 3
-- [ ] reading: S & B, pp. 71–74, 76, 85, 240–249, 273–281, 308–309
-- [ ] recap 3
+- [x] reading: S & B, pp. 71–74, 76, 85, 240–249, 273–281, 308–309
+- [x] recap 3
+- [ ] video3
 - [ ] lecture note 4
 - [ ] reading: S & B, pp. 10–14, 49–53, 75, 78–79, 86, 117, 286–287, 292, 660	
 - [ ] recap 4 
