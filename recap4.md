@@ -20,3 +20,18 @@ Foo b = new Foo();
 Foo c = a;
 if (a == b) { // false } if (a == c) { // true } if (b == c) { // false }
 ```
+
+3. wrapping a primitive
+
+`Integer`,`Boolean`...
+
+```java
+\\ wrapping a value
+int x = 3;
+Integer iWrap = Integer(3);
+```
+```java
+\\ unwrap a value
+int unWrapped = iWrap.intValue();
+```
+
