@@ -10,7 +10,12 @@ Complie Error will occurs, since constructor of `Math` is _private_.
 ```java
 int x = Math.round(42.2);
 ```
-static method don't need instances, only need the _class_.
+  - static method don't need instances
+  - only need the _class_
+  - no need to instantiate
+  - use the class name, rather than reference variable name. _NO OBJECTS_
+  - static methods can't use non-static variables/methods
+  - static variables have default values as like instance variables
 
 ```java
 Human.printHumans();
