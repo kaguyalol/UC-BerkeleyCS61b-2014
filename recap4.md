@@ -7,3 +7,10 @@
 
   - `==` uses for comparing two primitives or seeing if two references refer to the same object
   - `equals()` see if two different objects are equal(e.g. same string)
+  
+  ```java
+  int a = 3;
+  byte b = 3;
+  if (a==b) {\\true}
+  \\ the bit patterns are the same, so they are equal
+  ```
