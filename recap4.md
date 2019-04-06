@@ -64,7 +64,8 @@
     * Shift _right_ means devides a number by a power of two, e.g. `x >> 3` -> 10/(2^3);
     
     ```java
-    \\ right shift: shift all of the number's bits right by a certain number, and fill the left side with original bits, so the sign does _NOT_ change
+    \\ right shift: shift all of the number's bits right by a certain number
+    \\ fill the left side with original bits, so the sign does _NOT_ change
     int y = x >> 2; // bits are 11111101
     ```
     ```java
@@ -72,7 +73,8 @@
     int y = x >>> 2; // bits are 00111101
     ```
     ```java
-    \\ left shift: similar to right shift, but in opposite direction, fill the right side with _zeros_, sign might change
+    \\ left shift: similar to right shift, but in opposite direction
+    \\ fill the right side with _zeros_, sign might change
     int y = x << 2; // bits are 11010100
     ```
     
