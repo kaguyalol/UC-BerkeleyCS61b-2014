@@ -18,7 +18,9 @@
   Foo a = new Foo();
   Foo b = new Foo();
   Foo c = a;
-  if (a == b) { // false } if (a == c) { // true } if (b == c) { // false }
+  if (a == b) { // false }
+  if (a == c) { // true } 
+  if (b == c) { // false }
   ```
 
 3. wrapping a primitive
