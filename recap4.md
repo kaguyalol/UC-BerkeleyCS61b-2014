@@ -35,3 +35,11 @@ Integer iWrap = Integer(3);
 int unWrapped = iWrap.intValue();
 ```
 
+4. Bit manipulation
+  - Bitwise NOT operation
+  ```java
+  // flip all the bits
+  int x = 10; // bits are 00001010
+  x = ~x; // bits are now 11110101
+  ```
+
