@@ -14,3 +14,9 @@
   if (a==b) {\\true}
   \\ the bit patterns are the same, so they are equal
   ```
+```java
+Foo a = new Foo();
+Foo b = new Foo();
+Foo c = a;
+if (a == b) { // false } if (a == c) { // true } if (b == c) { // false }
+```
