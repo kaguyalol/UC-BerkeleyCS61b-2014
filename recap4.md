@@ -112,6 +112,8 @@ String doubleString = Double.toString(d);
   String.format("%6.1f", 42.00);
   ```
   output:
-  `  42.0`
+  ```java
+    42.0
+  ```
     
 
