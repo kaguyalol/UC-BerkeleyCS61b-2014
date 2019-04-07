@@ -108,12 +108,15 @@ String doubleString = Double.toString(d);
 8. The format specifier
 
   *%*[argument number][flags][width][.precision]*type*
+  * % and type are necessary
+  * others are optional
+  
   ```java
   String.format("%6.1f", 42.00);
   ```
   output:
   ```java
-    42.0
+    42.0 // two spaces before the number
   ```
     
 
