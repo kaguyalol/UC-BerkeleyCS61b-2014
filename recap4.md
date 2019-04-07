@@ -110,6 +110,7 @@ String doubleString = Double.toString(d);
   *%*[argument number][flags][width][.precision]*type*
   * % and type are necessary
   * others are optional
+  * can have multiple arguments, add more % and types
   
   ```java
   String.format("%6.1f", 42.00);
@@ -118,5 +119,9 @@ String doubleString = Double.toString(d);
   ```java
     42.0 // two spaces before the number
   ```
+  
+  9. multidimensional array
+  
+    An array of arrays, e.g. 4*2, totally have 5 arrays linked together
     
 
