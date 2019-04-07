@@ -122,6 +122,6 @@ String doubleString = Double.toString(d);
   
   9. multidimensional array
   
-    An array of arrays, e.g. 4*2, totally have 5 arrays linked together
+   An array of arrays, e.g. 4*2, totally have 5 arrays linked together
     
 
