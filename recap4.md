@@ -96,5 +96,13 @@
   int z = ++x; // z = 1, x = 1
   int z = x++; // z = 0, x = 1
   ```
+  
+7. Turn primitive to String
+```java
+double d = 42.5;
+String doubleString = "" + d;
+
+String doubleString = Double.toString(d);
+```
     
 
