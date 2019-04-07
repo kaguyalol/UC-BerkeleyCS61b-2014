@@ -104,5 +104,14 @@ String doubleString = "" + d;
 
 String doubleString = Double.toString(d);
 ```
+
+8. The format specifier
+
+  *%*[argument number][flags][width][.precision]*type*
+  ```java
+  String.format("%6.1f", 42.00);
+  ```
+  output:
+  `  42.0`
     
 
