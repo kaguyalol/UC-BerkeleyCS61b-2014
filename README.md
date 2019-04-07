@@ -39,4 +39,6 @@ Timeline
 - [x] recap 4 
 - [x] lab 2
 - [x] read lab2 discussion
+- [x] write conclusion and understandings of lab 
+
 
