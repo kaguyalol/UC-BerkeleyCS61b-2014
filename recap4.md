@@ -79,5 +79,15 @@
     \\ fill the right side with _zeros_, sign might change
     int y = x << 2; // bits are 11010100
     ```
+
+5. Objects in array
+
+  ```java
+  Dog[] myDog = new Dog[3];
+  myDog[0] = new Dog();
+  myDog[0].name = "Fido";
+  myDog[0].bark();
+  ```
+  `myDog[0]` as a reference varaible name.
     
 
