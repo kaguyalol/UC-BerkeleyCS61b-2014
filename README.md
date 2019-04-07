@@ -28,9 +28,7 @@ Timeline
 - [x] reading: S & B, pp. 71–74, 76, 85, 240–249, 273–281, 308–309
 - [x] recap 3
 - [x] video3
-- [x] lecture note 4
-- [ ] reading: S & B, pp. 10–14, 49–53, 75, 78–79, 86, 117, 286–287, 292, 660	
-- [ ] recap 4 
+- [x] lecture note 4 
 
 *04/06/2019*
 - [x] reading: S & B, pp. 10–14, 49–53, 75, 78–79, 86, 117, 286–287, 292, 660	
@@ -40,9 +38,9 @@ Timeline
 - [x] lab 2
 - [x] read lab2 discussion
 - [x] write conclusion and understandings of lab 
+- [x] video4
 
-*04/08/2019*
-- [ ] video4	
+*04/08/2019*	
 - [ ] lecture note 6
 - [ ] reading: S & B, pp. 282–285
 - [ ] video5
