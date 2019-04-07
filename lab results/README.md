@@ -1,1 +1,2 @@
-screenshot of running results
+- Screenshot of running results
+- Tips and understanding of questions
