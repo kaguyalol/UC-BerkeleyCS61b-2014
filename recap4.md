@@ -89,5 +89,12 @@
   myDog[0].bark();
   ```
   `myDog[0]` as a reference varaible name.
+  
+6. Pre/Post operator
+  ```java
+  int x = 0;
+  int z = ++x; // z = 1, x = 1
+  int z = x++; // z = 0, x = 1
+  ```
     
 
