@@ -37,5 +37,6 @@ Timeline
 - [x] lecture note 5
 - [x] reading: Sierra & Bates pp. 59-62, 83, 114-116, 293-300, 670
 - [x] recap 4 
-- [ ] lab 2
+- [x] lab 2
+- [x] read lab2 discussion
 
