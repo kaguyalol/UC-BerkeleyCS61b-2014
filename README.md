@@ -41,4 +41,13 @@ Timeline
 - [x] read lab2 discussion
 - [x] write conclusion and understandings of lab 
 
+*04/08/2019*
+- [ ] video4	
+- [ ] lecture note 6
+- [ ] reading: S & B, pp. 282–285
+- [ ] video5
+- [ ] lecture note 7&8 
+- [ ] reading: Goodrich & Tamassia, Section 3.2
+- [ ] reading: G & T, Section 3.3
+- [ ] recap 5
 
