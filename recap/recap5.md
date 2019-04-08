@@ -18,3 +18,7 @@
 
 2. A final class means you can't extend the class
 
+3. Mark class final, then all methods in the class are final
+
+4. Assigning a value to a final instance variable must be either at the time it is declared, or in the constructor
+
