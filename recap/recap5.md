@@ -30,18 +30,22 @@
         System.out.println(x);  
     } 
   }
+  ```
+  ```java
   class Foo5 { 
     static final int x = 12;
     public void go(int y) { 
         System.out.println(x);  
     } 
   }
+  ```
+  ```java
   class Foo5 { 
     static final int x = 12;
     public void go(int x) { 
         System.out.println(x);  
     } 
-}
+  }
   ```
   ```java
   Foo5 foo5 = new Foo5();
