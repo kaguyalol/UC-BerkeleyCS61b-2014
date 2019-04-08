@@ -22,3 +22,23 @@
 
 4. Assigning a value to a final instance variable must be either at the time it is declared, or in the constructor
 
+5. Final variable can be shadowed by parameter in methods
+  ```java
+  
+  class Foo5 { 
+    static final int x = 12;
+    public void go(final int x) { 
+        System.out.println(x);  
+    } 
+  }
+  ```
+  ```java
+  Foo5 foo5 = new Foo5();
+  foo5.go(4);
+  ```
+  output:
+  ```java
+  4
+  ```
+  
+
