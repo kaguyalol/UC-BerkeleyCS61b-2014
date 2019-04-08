@@ -48,4 +48,5 @@ Timeline
 - [ ] reading: Goodrich & Tamassia, Section 3.2
 - [ ] reading: G & T, Section 3.3
 - [ ] recap 5
+- [ ] hw 2
 
