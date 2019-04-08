@@ -41,7 +41,7 @@ Timeline
 - [x] video4
 
 *04/08/2019*	
-- [ ] lecture note 6
+- [x] lecture note 6
 - [ ] reading: S & B, pp. 282–285
 - [ ] video5
 - [ ] lecture note 7&8 
