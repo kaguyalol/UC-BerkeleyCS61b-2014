@@ -16,4 +16,5 @@
     ```
   - MUST initialize or _complier error_
 
-2. 
+2. A final class means you can't extend the class
+
