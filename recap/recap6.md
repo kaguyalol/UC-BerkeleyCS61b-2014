@@ -1,10 +1,16 @@
 1. Singly-LinkedList
+    ```java
+    public class SListNode {
+      private Object item;
+      private SListNode next;
+    }
+    ```
   - Easy to insert/delete at front of list
   - Hard to insert/delete end of list
   - Insert node to the front of SLinkedList
     ```java
     public class SLink{
-      private SLinkedNode head;
+      private SListNode head;
       private int size;
       
       public SLink(){
@@ -14,17 +20,32 @@
       
       public void insertFront(Object item){
         /*
-        * create new SLinkedNode storing a reference to Object item
-        * set new SLinkedNode.next points to old head node
-        * new head points to new SLinkedNode
+        * create new SListNode storing a reference to Object item
+        * set new SListNode.next points to old head node
+        * new head points to new SListNode
         */
-        head = new SLinkedNode(item, head);
+        head = new SListNode(item, head);
         size++;
       }
     }
     ```
+  - Keep reference to tail, add new node to last
+    ```java
+    public void addLast(Object item) {
+      SListNode newLast = new SListNode(item, null);
+      tail.next = newLast;
+      tail = newLast;
+    }
+    ```
 
 2. Doubly-LinkedList
+    ```java
+    public class DListNode {
+      private Object item;
+      private DListNode prev;
+      private DListNode next;   
+    }
+    ```
   - Easy to insert/delete end of list
   - Remove tail from DLinkedList(_should consider special cases_)
     ```java
