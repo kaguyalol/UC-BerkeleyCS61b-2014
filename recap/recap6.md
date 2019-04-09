@@ -46,10 +46,10 @@
         size++;
     }
     ```
-    - Hard to delete end of list
-      * need to 
-  
-
+  - Hard to delete end of list(even with tail pointer)
+    * Need to access the second last node, but no pointer from last one to second last one
+    * Or from head to tail, need _Doubly-LinkedList_
+    
 2. Doubly-LinkedList
     ```java
     public class DListNode {
