@@ -4,8 +4,17 @@
   - Insert node to the front of SLinkedList
     ```java
     public class SLink{
-      public void removeTail(){
-        
+      private SLinkedNode head;
+      private int size;
+      
+      public SLink(){
+        head = null;
+        size = 0;
+      }
+      
+      public void insertFront(Object item){
+        head = new SLinkedNode(item, head);
+        size++;
       }
     }
     ```
