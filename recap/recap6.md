@@ -5,19 +5,17 @@
       private SListNode next;
     }
     ```
-  - Easy to insert/delete at front of list
-  - Hard to insert/delete end of list
   - Insert node to the front of SLinkedList
     ```java
     public class SLink{
       private SListNode head;
       private int size;
-      
+
       public SLink(){
         head = null;
         size = 0;
       }
-      
+
       public void insertFront(Object item){
         /*
         * create new SListNode storing a reference to Object item
@@ -29,15 +27,28 @@
       }
     }
     ```
+  - Delete at the front
+    ```java
+    public void deleteFront(Object item) {
+        if (head != null) {
+            head = head.next;
+            size--;
+        }
+    }
+    ```
   - Keep reference to tail, add new node to last
     ```java
     // asign refrence from tail node to newLast before removing tail reference
     public void addLast(Object item) {
-      SListNode newLast = new SListNode(item, null);
-      tail.next = newLast;
-      tail = newLast;
+        SListNode newLast = new SListNode(item, null);
+        tail.next = newLast;
+        tail = newLast;
+        size++;
     }
     ```
+    - Hard to delete end of list
+      * need to 
+  
 
 2. Doubly-LinkedList
     ```java
