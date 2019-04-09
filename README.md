@@ -52,6 +52,7 @@ Timeline
 - [x] reading: G & T, Section 3.3
 - [x] recap 6
 - [ ] hw 2
+- [ ] read hw2 dicussion
 - [ ] lab 3
 - [ ] hw 3
 - [ ] lab 4
