@@ -48,9 +48,9 @@ Timeline
 
 *04/09/2019*
 - [x] lecture note 7&8 
-- [ ] reading: Goodrich & Tamassia, Section 3.2
-- [ ] reading: G & T, Section 3.3
-- [ ] recap 6
+- [x] reading: Goodrich & Tamassia, Section 3.2
+- [x] reading: G & T, Section 3.3
+- [x] recap 6
 - [ ] hw 2
 - [ ] lab 3
 
