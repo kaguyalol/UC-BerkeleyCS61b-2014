@@ -31,6 +31,7 @@
     ```
   - Keep reference to tail, add new node to last
     ```java
+    // asign refrence from tail node to newLast before removing tail reference
     public void addLast(Object item) {
       SListNode newLast = new SListNode(item, null);
       tail.next = newLast;
