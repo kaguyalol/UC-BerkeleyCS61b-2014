@@ -44,7 +44,9 @@ Timeline
 - [x] lecture note 6
 - [x] reading: S & B, pp. 282–285
 - [x] video5
-- [ ] lecture note 7&8 
+
+*04/09/2019*
+- [x] lecture note 7&8 
 - [ ] reading: Goodrich & Tamassia, Section 3.2
 - [ ] reading: G & T, Section 3.3
 - [ ] recap 5
