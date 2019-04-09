@@ -49,8 +49,11 @@
   - Hard to delete end of list(even with tail pointer)
     * Need to access the second last node, but no pointer from last one to second last one
     * Or from head to tail, need _Doubly-LinkedList_
+
+2. Circularly Singly-LinkedList
+    |-|
     
-2. Doubly-LinkedList
+3. Doubly-LinkedList
     ```java
     public class DListNode {
       public Object item;
