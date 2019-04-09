@@ -53,4 +53,7 @@ Timeline
 - [x] recap 6
 - [ ] hw 2
 - [ ] lab 3
+- [ ] hw 3
+- [ ] lab 4
+- [ ] hw 4 
 
