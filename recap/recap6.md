@@ -50,14 +50,19 @@
     * Need to access the second last node, but no pointer from last one to second last one
     * Or from head to tail, need _Doubly-LinkedList_
 
+
 2. Circularly Singly-LinkedList
    - Head refers to the first node
    - Tail refers to the last node
    - Last node points to the first node as a cycle
    - Round-Robin scheduling
      > Give a time slice to process C.first()
+     
      > C.rotate()
-    
+     
+   - Optimized: delete head, tail.next as head
+  
+  
 3. Doubly-LinkedList
     ```java
     public class DListNode {
