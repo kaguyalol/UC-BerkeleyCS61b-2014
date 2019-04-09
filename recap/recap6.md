@@ -13,6 +13,11 @@
       }
       
       public void insertFront(Object item){
+        /*
+        * create new SLinkedNode storing a reference to Object item
+        * set new SLinkedNode.next points to old head node
+        * new head points to new SLinkedNode
+        */
         head = new SLinkedNode(item, head);
         size++;
       }
