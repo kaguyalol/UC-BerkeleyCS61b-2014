@@ -57,5 +57,45 @@
   12
   4
   ```
+
+6. Insert item to a full array
+  - Allocate a new array with longer length
+  - Shift items to teh right
+  ```java
+  
+  public class AList {
+    int a[];
+    int lastItem;
+
+    public AList() {
+        a = new int[10]; // empty array, so need to insert items till full
+        lastItem = -1; // from -1 since index is from 0
+    }
+
+    public void insertItem(int newItem, int location) {
+        int i;
+        // since lastItem starts from -1, need to add 1 to equal to a.length
+        if (lastItem + 1 == a.length) {
+            int b[] = new int[2 * a.length];
+            for (i = 0; i <= lastItem; i++) {
+                b[i] = a[i];
+            }
+            a = b;
+         }
+         // when i--, if initial state less than final condition, loop will not start
+         for (i = lastItem; i >= location; i--) {
+             a[i + 1] = a[i];
+         }
+         System.out.println(lastItem);
+         a[location] = newItem;
+         lastItem++;
+     }
+  }
+  ```
+  - _*when i--, if initial state less than final condition, loop will not start*_
+  
+
+  
+
   
 
