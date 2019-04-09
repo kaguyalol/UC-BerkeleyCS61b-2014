@@ -1,8 +1,8 @@
 1. Singly-LinkedList
     ```java
     public class SListNode {
-      private Object item;
-      private SListNode next;
+      public Object item;
+      public SListNode next;
     }
     ```
   - Insert node to the front of SLinkedList
@@ -53,9 +53,9 @@
 2. Doubly-LinkedList
     ```java
     public class DListNode {
-      private Object item;
-      private DListNode prev;
-      private DListNode next;   
+      public Object item;
+      public DListNode prev;
+      public DListNode next;   
     }
     ```
   - Easy to insert/delete end of list
