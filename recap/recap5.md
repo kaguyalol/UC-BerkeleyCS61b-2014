@@ -92,7 +92,7 @@
      }
   }
   ```
-  - _*when i--, if initial state less than final condition, loop will not start*_
+  - *When i--, if initial state less than final condition, loop will not start*
   
 
   
