@@ -51,8 +51,8 @@ Timeline
 - [x] reading: Goodrich & Tamassia, Section 3.2
 - [x] reading: G & T, Section 3.3
 - [x] recap 6
-- [ ] hw 2
-- [ ] read hw2 dicussion for validation
+- [x] hw 2
+- [x] read hw2 dicussion for validation
 - [ ] lab 3
 - [ ] hw 3
 - [ ] lab 4
