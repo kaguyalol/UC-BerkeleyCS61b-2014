@@ -53,6 +53,8 @@ Timeline
 - [x] recap 6
 - [x] hw 2
 - [x] read hw2 dicussion for validation
+
+*04/12/2019*
 - [ ] lab 3
 - [ ] hw 3
 - [ ] lab 4
