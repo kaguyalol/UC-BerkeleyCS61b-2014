@@ -60,4 +60,5 @@ Timeline
 - [ ] hw 3
 - [ ] lab 4
 - [ ] hw 4 
+- [ ] project 1
 
