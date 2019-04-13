@@ -60,7 +60,7 @@ Timeline
 
 *04/12/2019*
 - [x] hw 3
-- [ ] read hw3 dicussion for validation
+- [x] read hw3 dicussion for validation
 - [ ] lab 4
 - [ ] hw 4 
 - [ ] project 1
