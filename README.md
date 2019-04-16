@@ -64,6 +64,9 @@ Timeline
 
 *04/16/2019*
 - [x] lab 4
+- [ ] video6&7
+- [ ] lecture note 9
+- [ ] reading: Sierra & Bates pp. 77, 235-239, 258-265, 663
 - [ ] hw 4 
 - [ ] project 1
 
