@@ -69,6 +69,7 @@ Timeline
 - [x] reading: Sierra & Bates pp. 77, 235-239, 258-265, 663
 - [ ] video8
 - [ ] lecture note 10
+- [ ] reading: S & B, Chapter 7; pp. 28–33, 250–257
 - [ ] recap 7
 - [ ] hw 4 
 - [ ] project 1
