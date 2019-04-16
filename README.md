@@ -66,7 +66,6 @@ Timeline
 - [x] lab 4
 - [x] video6&7
 - [x] lecture note 9
-- [ ] reading: G & T, Section 4.1.2, 4.1.7 (Logarithms)
 - [ ] reading: Sierra & Bates pp. 77, 235-239, 258-265, 663
 - [ ] recap 7
 - [ ] hw 4 
