@@ -67,6 +67,8 @@ Timeline
 - [x] video6&7
 - [x] lecture note 9
 - [x] reading: Sierra & Bates pp. 77, 235-239, 258-265, 663
+- [ ] video8
+- [ ] lecture note 10
 - [ ] recap 7
 - [ ] hw 4 
 - [ ] project 1
