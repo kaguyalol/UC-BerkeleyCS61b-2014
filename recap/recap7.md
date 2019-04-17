@@ -16,5 +16,16 @@
   - IS-A Test
     * If inheritance tree works well, subclass IS-A superclass.
     * e.g. tub is not bathroom, bathroom has tub, thus, no inheritance, but tub can be an instance variable of bathroom
+  - can't have `this()` and `super()` in the same constructor
+    * they must be the first statment
+
+5. Polymorphism
+  - The reference and the object can be different
+    ```java
+    Animal myDog = new Dog();
+    ```
+  - The rules of Overriding
+    * Aruguments must be the same, return type should be the same type or subclass type
+    * The method can't be less accessible( cannot from public to private)
     
     
