@@ -7,3 +7,8 @@
   - Reference goes out of scope, permanently
   - Assign the reference to another object
   - Explicitly set the object to null
+
+4. Inheritance
+  - When call a method on an object refrence, you're calling the most specific version of the method for that object type
+    * e.g. Invoking a method on a reference to Wolf object means the JVM starts looking first in the Wolf class. 
+    * If the JVM does not find a version of the method in the Wolf class, it starts walking back up to the inheritance hierarchy until it finds a match.
