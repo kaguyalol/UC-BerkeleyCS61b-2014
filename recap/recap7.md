@@ -18,6 +18,9 @@
     * e.g. tub is not bathroom, bathroom has tub, thus, no inheritance, but tub can be an instance variable of bathroom
   - can't have `this()` and `super()` in the same constructor
     * they must be the first statment
+  - instanceof
+    * This instanceof operation will return false if s is null or doesn’t reference a TailList.  
+    * It returns true if s references a TailList object--even if it’s a __subclass__ of TailList.
 
 5. Polymorphism
   - The reference and the object can be different
