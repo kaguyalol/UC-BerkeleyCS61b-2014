@@ -31,4 +31,7 @@
     * Aruguments must be the same, return type should be the same type or subclass type
     * The method can't be less accessible( cannot from public to private)
     
-    
+6. `equals()`
+  - Override `equals()`
+    * Every class has an equals() method(inherit `Object.equals()`)
+    * Signature must not change, pass `Object`, e.g. `equals(Object other)'
