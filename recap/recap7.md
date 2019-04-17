@@ -12,3 +12,9 @@
   - When call a method on an object refrence, you're calling the most specific version of the method for that object type
     * e.g. Invoking a method on a reference to Wolf object means the JVM starts looking first in the Wolf class. 
     * If the JVM does not find a version of the method in the Wolf class, it starts walking back up to the inheritance hierarchy until it finds a match.
+    * The compiler does not care about which versions the method is on, only check for whether they have.
+  - IS-A Test
+    * If inheritance tree works well, subclass IS-A superclass.
+    * e.g. tub is not bathroom, bathroom has tub, thus, no inheritance, but tub can be an instance variable of bathroom
+    
+    
