@@ -71,7 +71,7 @@ Timeline
 - [x] lecture note 10
 
 *04/17/2019*
-- [ ] reading: S & B, Chapter 7; pp. 28–33, 250–257
+- [x] reading: S & B, Chapter 7; pp. 28–33, 250–257
 - [ ] two-pointer interview question
 - [ ] lecture note 11
 - [ ] reading: Sierra & Bates, pp. 95-109, 662
