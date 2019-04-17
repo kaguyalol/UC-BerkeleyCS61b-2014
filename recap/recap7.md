@@ -35,3 +35,9 @@
   - Override `equals()`
     * Every class has an equals() method(inherit `Object.equals()`)
     * Signature must not change, pass `Object`, e.g. `equals(Object other)`
+      * If pass SList other than Object, then `equals()` method will not override
+        ```java
+        Object s = new SList();
+        s.equals(s); // will call Object.equals() NOT SList.equals()
+        ```
+        
