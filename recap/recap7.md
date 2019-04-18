@@ -39,5 +39,7 @@
         ```java
         Object s = new SList();
         s.equals(s); // will call Object.equals() NOT SList.equals()
+        // type of s is Object, so s.equals(s) means pass Object
+        // based on the argument type, dynamic search for match method, method with passing SList will not invoke
         ```
         
