@@ -76,6 +76,10 @@ Timeline
 - [x] lecture note 11
 - [x] reading: Sierra & Bates, pp. 95-109, 662
 - [x] recap 7
-- [ ] hw 4 
+
+*04/18/2019*
 - [ ] project 1
+- [ ] lab 5
+- [ ] hw 4 
+
 
