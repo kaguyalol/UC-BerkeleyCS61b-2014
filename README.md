@@ -79,7 +79,9 @@ Timeline
 
 *04/19/2019*
 - [x] project 1: Part I 50%
-- [ ] video9
+
+*04/20/2019*
+- [x] video9
 - [ ] lecture note 12
 - [ ] reading: Sierra & Bates, Chapter 8
 - [ ] lecture note 13
