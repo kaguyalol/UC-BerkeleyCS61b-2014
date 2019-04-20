@@ -77,8 +77,13 @@ Timeline
 - [x] reading: Sierra & Bates, pp. 95-109, 662
 - [x] recap 7
 
-*04/18/2019*
-- [ ] project 1
+*04/19/2019*
+- [x] project 1: Part I 50%
+- [ ] video9
+- [ ] lecture note 12
+- [ ] reading: Sierra & Bates, Chapter 8
+- [ ] lecture note 13
+- [ ] reading: Sierra & Bates, pp. 154-160, 587-591, 667-668
 - [ ] lab 5
 - [ ] hw 4 
 
