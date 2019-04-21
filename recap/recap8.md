@@ -42,6 +42,7 @@
       ```
       Cat@7d277f
       ```
+  - The complier decides whether you can call a method based on the reference type, not the actual object type
       
   
 3. Interface
