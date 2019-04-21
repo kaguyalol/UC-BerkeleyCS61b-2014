@@ -82,7 +82,7 @@ Timeline
 
 *04/20/2019*
 - [x] video9
-- [ ] lecture note 12
+- [x] lecture note 12
 - [ ] reading: Sierra & Bates, Chapter 8
 - [ ] recap 8
 - [ ] lecture note 13
