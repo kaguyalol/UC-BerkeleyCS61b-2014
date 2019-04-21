@@ -84,6 +84,7 @@ Timeline
 - [x] video9
 - [ ] lecture note 12
 - [ ] reading: Sierra & Bates, Chapter 8
+- [ ] recap 8
 - [ ] lecture note 13
 - [ ] reading: Sierra & Bates, pp. 154-160, 587-591, 667-668
 - [ ] lab 5
