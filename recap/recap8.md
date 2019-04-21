@@ -35,6 +35,13 @@
       ```
       8202111
       ```
+    * `toString()` return a String with the name of class
+      ```java
+      System.out.println(c.toString());
+      ```
+      ```
+      Cat@7d277f
+      ```
       
   
 3. Interface
