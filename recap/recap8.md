@@ -8,3 +8,7 @@
     List myList; \\ good
     myList = new List(); \\ Compile-time error
     ```
+  - A non-abstract class may never contain a abstract method, nor inherit one without inplementation
+
+2. Interface
+  - Can inherits multiple interfaces
