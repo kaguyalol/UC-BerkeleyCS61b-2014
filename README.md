@@ -85,7 +85,7 @@ Timeline
 - [x] lecture note 12
 
 *04/21/2019*
-- [ ] reading: Sierra & Bates, Chapter 8
+- [x] reading: Sierra & Bates, Chapter 8
 - [ ] recap 8
 - [ ] lecture note 13
 - [ ] reading: Sierra & Bates, pp. 154-160, 587-591, 667-668
