@@ -88,6 +88,7 @@ Timeline
 - [x] reading: Sierra & Bates, Chapter 8
 
 *04/22/2019*
+- [x] project 1: Part I 100%
 - [ ] recap 8
 - [x] lecture note 13
 - [ ] reading: Sierra & Bates, pp. 154-160, 587-591, 667-668
