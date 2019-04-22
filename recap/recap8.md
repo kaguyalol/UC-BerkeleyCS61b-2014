@@ -48,3 +48,13 @@
 3. Interface
   - Can inherits multiple interfaces
 
+4. Iterator
+  - In Java.util there is a standard interface for iterator
+    ```java
+    public interface Iterator {
+      boolean hasNext();
+      Object next();
+      void remove();
+    }
+    ```
+
