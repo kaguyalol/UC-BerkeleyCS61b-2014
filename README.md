@@ -89,7 +89,7 @@ Timeline
 
 *04/22/2019*
 - [ ] recap 8
-- [ ] lecture note 13
+- [x] lecture note 13
 - [ ] reading: Sierra & Bates, pp. 154-160, 587-591, 667-668
 - [ ] lab 5
 - [ ] hw 4 
