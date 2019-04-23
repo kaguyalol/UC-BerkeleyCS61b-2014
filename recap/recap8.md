@@ -69,3 +69,17 @@
       int size;
     }
     ```
+  - Then compile and run files outside the package
+    ```shell
+    $ javac list/*.java
+    ```
+  - Import package in other files
+    ```java
+    /* test.java */
+    import list.Slist;
+    ```
+    ```shell
+    $ javac test.java
+    $ java test
+    ```
+    
