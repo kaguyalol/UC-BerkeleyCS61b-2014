@@ -94,7 +94,7 @@ Timeline
 - [x] reading: Sierra & Bates, pp. 154-160, 587-591, 667-668
 
 *04/23/2019*
-- [ ] project 1: Part II ~ IV
+- [x] project 1: Part II ~ IV
 - [ ] lab 5
 - [ ] hw 4 
 
