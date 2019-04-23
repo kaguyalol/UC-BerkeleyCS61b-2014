@@ -71,7 +71,7 @@
     ```
   - Then compile and run files outside the package
     ```shell
-    $ javac list/*.java
+    $ javac list/SList.java
     ```
   - Import package in other files
     ```java
