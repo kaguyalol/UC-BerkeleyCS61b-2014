@@ -58,3 +58,13 @@
     }
     ```
 
+5. Building Packages
+  - Put a `package` statement in all source files in the same directory
+    * It must be in the first line
+    ```java
+    package list; // all classes are put in directory list/
+    public class SList {
+      SListNode head;
+      int size;
+    }
+    ```
