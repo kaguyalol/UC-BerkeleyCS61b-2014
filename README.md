@@ -91,7 +91,7 @@ Timeline
 - [x] project 1: Part I 100%
 - [ ] recap 8
 - [x] lecture note 13
-- [ ] reading: Sierra & Bates, pp. 154-160, 587-591, 667-668
+- [x] reading: Sierra & Bates, pp. 154-160, 587-591, 667-668
 - [ ] lab 5
 - [ ] hw 4 
 
