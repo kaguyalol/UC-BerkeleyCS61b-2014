@@ -17,17 +17,17 @@ Timeline
 - [x] reading: S & B, Chapter 2; pp. 54–58, 154–160, 661, 669
 - [x] recap 2 
 - [x] lab 1
-- [x] video1 50%
+- [x] video 1 50%
 
 *04/05/2019*
 - [x] video1 100%
 - [x] hw 1
 - [x] read hw1 discussion
-- [x] video2
+- [x] video 2
 - [x] lecture note 3
 - [x] reading: S & B, pp. 71–74, 76, 85, 240–249, 273–281, 308–309
 - [x] recap 3
-- [x] video3
+- [x] video 3
 - [x] lecture note 4 
 
 *04/06/2019*
@@ -38,12 +38,12 @@ Timeline
 - [x] lab 2
 - [x] read lab2 discussion
 - [x] write conclusion and understandings of lab 
-- [x] video4
+- [x] video 4
 
 *04/08/2019*	
 - [x] lecture note 6
 - [x] reading: S & B, pp. 282–285
-- [x] video5
+- [x] video 5
 - [x] recap 5
 
 *04/09/2019*
@@ -64,10 +64,10 @@ Timeline
 
 *04/16/2019*
 - [x] lab 4
-- [x] video6&7
+- [x] video 6&7
 - [x] lecture note 9
 - [x] reading: Sierra & Bates pp. 77, 235-239, 258-265, 663
-- [x] video8
+- [x] video 8
 - [x] lecture note 10
 
 *04/17/2019*
@@ -81,7 +81,7 @@ Timeline
 - [x] project 1: Part I 50%
 
 *04/20/2019*
-- [x] video9
+- [x] video 9
 - [x] lecture note 12
 
 *04/21/2019*
@@ -96,6 +96,14 @@ Timeline
 *04/23/2019*
 - [x] project 1: Part II ~ IV
 - [x] lab 5
+
+*04/24/2019*
 - [ ] hw 4 
+- [ ] video 10
+- [ ] lecture note 15
+- [ ] reading: Sierra & Bates, pp. 315-338
+- [ ] lecture note 16
+- [ ] reading: Sierra & Bates, pp. 189, 283
+- [ ] recap 9
 
 
