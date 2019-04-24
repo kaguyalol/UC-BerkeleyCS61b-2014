@@ -10,4 +10,12 @@
   List myList = new SList();
   ((SList) myList).head =...;
   ```
+- The key point of partIII of hw4 is that **override newNode()** in *LockDList*, since every methods inherit from *DList* will invoke method newNode(), if override it, then everytime we insert a new node, the dynamic type is *LockDListNode*, then it can be casted to *LockDListNode*
+
+- Second key point is that we should know cast can change object itself
+  ```java
+  public void lockNode(DListNode node) { 
+    ((LockDListNode) node).isLocked = true;
+  }
+  ```
   
