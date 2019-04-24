@@ -98,7 +98,7 @@ Timeline
 - [x] lab 5
 
 *04/24/2019*
-- [ ] hw 4 
+- [x] hw 4 
 - [ ] video 10
 - [ ] lecture note 15
 - [ ] reading: Sierra & Bates, pp. 315-338
