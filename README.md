@@ -1,6 +1,6 @@
 # cs61b-2014
 - This repository is only for tracking author's study on cs61b. 
-- The author owned the copy right of the homework solutions.
+- The author owned the copy right of the homework, labs and projects solutions.
 
 [course website](https://people.eecs.berkeley.edu/~jrs/61b/)
 
