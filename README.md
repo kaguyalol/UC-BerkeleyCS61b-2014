@@ -95,7 +95,7 @@ Timeline
 
 *04/23/2019*
 - [x] project 1: Part II ~ IV
-- [ ] lab 5
+- [x] lab 5
 - [ ] hw 4 
 
 
