@@ -3,6 +3,8 @@
   - Can be catched to prevent program terminating and printing error message
   - If `try` code throws an exception, it will jump to the first `catch` that **match** the exception(same or subclasses)
   - If an exception propagates all the way out of main() without being caught, the JVM prints an error message and halts
+  - Multiple `catch` block must be ordered from smallest to biggest
+    * Since superclass catch the exception, then subclasses will never run
 
 2. Throwable
   - Superclass of Exception and Error
@@ -15,5 +17,6 @@
   - Must run regardless of an exception
   - If try or catch block has return statement, `finally` still run
     * Flow jumps to the `finally` and back to the return
+
   
       
