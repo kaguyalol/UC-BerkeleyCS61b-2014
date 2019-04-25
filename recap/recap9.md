@@ -80,6 +80,11 @@
   - A method can be declared "final" to prevent subclasses from overriding it
   - A class can be declared "final" to prevent it from being extended
   - `final` is to improve the speed of a program
+
+7. Prevent Subclasses
+  - Default accessor 
+  - `final`
+  - Private constructors
     
     
 
