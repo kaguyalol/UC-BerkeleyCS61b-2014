@@ -7,6 +7,7 @@
     * Since superclass catch the exception, then subclasses will never run
   - `throws` exceptions in the signature
     * If exception happens, method will pop off the stack down to the `main()`
+    * If no one deal with such exception, JVM will shuts down
 
 2. Throwable
   - Superclass of Exception and Error
