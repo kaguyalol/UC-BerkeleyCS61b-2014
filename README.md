@@ -99,7 +99,7 @@ Timeline
 
 *04/24/2019*
 - [x] hw 4 
-- [ ] video 10
+- [x] video 10
 - [ ] lecture note 15
 - [ ] reading: Sierra & Bates, pp. 315-338
 - [ ] lecture note 16
