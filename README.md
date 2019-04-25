@@ -103,7 +103,7 @@ Timeline
 
 *04/24/2019*
 - [x] lecture note 15
-- [ ] reading: Sierra & Bates, pp. 315-338
+- [x] reading: Sierra & Bates, pp. 315-338
 - [ ] lecture note 16
 - [ ] reading: Sierra & Bates, pp. 189, 283
 - [ ] recap 9
