@@ -100,10 +100,13 @@ Timeline
 *04/24/2019*
 - [x] hw 4 
 - [x] video 10
+
+*04/24/2019*
 - [ ] lecture note 15
 - [ ] reading: Sierra & Bates, pp. 315-338
 - [ ] lecture note 16
 - [ ] reading: Sierra & Bates, pp. 189, 283
 - [ ] recap 9
+- [ ] lab 6
 
 
