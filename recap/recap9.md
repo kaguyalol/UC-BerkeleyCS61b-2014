@@ -18,8 +18,54 @@
 
 3. `finally`
   - Must run regardless of an exception
-  - If try or catch block has return statement, `finally` still run
-    * Flow jumps to the `finally` and back to the return
+  - If try or catch block has return statement, `finally` still runs
+    * Flow jumps to the `finally` and back to the reture
+  - If try block causes other exceptions, `finally` still runs, but the exception is not catched, then down to the stack
+  - If an exception happens in catch block, `finally` still runs
+
+4. Generics
+  - Safe from a ClassCastException
+  - Don't work with primitive types
+
+5. Field Shadowing
+  - The choice of methods is dictated by the _dynamic_type_ of an object
+  - The choice of fields is dictated by the _static_type_ of a variable or object
+    ```java
+    class Super {
+      int x = 2;
+      int f() {
+        return 2;
+      }
+    }
+    ```
+    ```java
+    class Sub extends Super {
+      int x = 4; // shadow Super.x
+      int f() {  // override Super.f()
+        return 4;
+      }
+    }
+    ```
+    * Every objects of Sub has _two_ fields called x
+    ```java
+    Sub sub = new Sub();
+    Super supe = sub;
+    int i;
+    ```
+    ```java
+    i = supe.x; // 2
+    i = sub.x; // 4
+    i = ((Super) sub).x; // 2
+    i = ((Sub) supe).x; // 4
+    ```
+    ```java
+    i = supe.f(); // 4
+    i = sub.f(); // 4
+    i = ((Super) sub).f(); // 4
+    i = ((Sub) supe).f(); // 4
+    ```
+    
+    
 
   
       
