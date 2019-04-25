@@ -5,6 +5,8 @@
   - If an exception propagates all the way out of main() without being caught, the JVM prints an error message and halts
   - Multiple `catch` block must be ordered from smallest to biggest
     * Since superclass catch the exception, then subclasses will never run
+  - `throws` exceptions in the signature
+    * If exception happens, method will pop off the stack down to the `main()`
 
 2. Throwable
   - Superclass of Exception and Error
