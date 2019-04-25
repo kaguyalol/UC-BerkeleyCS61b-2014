@@ -64,6 +64,16 @@
     i = ((Super) sub).f(); // 4
     i = ((Sub) supe).f(); // 4
     ```
+    * Shadow `this`
+    ```java
+    class Sub extends Super {
+      int x = 4;  // shadows Super.x
+      void g() {
+    
+        i = this.x;  // 4
+        i = ((Super) this).x; // 2
+        i = super.x;  // 2    
+    ```
     
     
 
