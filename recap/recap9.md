@@ -20,7 +20,7 @@
   - Must run regardless of an exception
   - If try or catch block has return statement, `finally` still runs
     * Flow jumps to the `finally` and back to the reture
-  - If try block causes other exceptions, `finally` still runs, but the exception is not catched, then down to the stack
+  - If try block causes other exceptions, `finally` still runs, but the exception is not caught, then down to the stack
   - If an exception happens in catch block, `finally` still runs
 
 4. Generics
