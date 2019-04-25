@@ -3,6 +3,7 @@
 1. `protected`
   - Classes in the same package can access methods or fields of each other even not subclass
   - Subclass can access methods or fields even outside the package
+    * It is the key point of PartII, to corrupt the program, we can inherits the fields or static method, then **shaodows** them.
 
 2. Casting
  - Superclass cannot cast to subclass only if dynamic type is subclass
