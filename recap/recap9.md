@@ -28,6 +28,7 @@
   - Don't work with primitive types
 
 5. Field Shadowing
+  - Static methods _can’t_ use dynamic method lookup or overriding, so they use shadowing instead
   - The choice of methods is dictated by the _dynamic_type_ of an object
   - The choice of fields is dictated by the _static_type_ of a variable or object
     ```java
@@ -74,6 +75,11 @@
         i = ((Super) this).x; // 2
         i = super.x;  // 2    
     ```
+
+6. `final`
+  - A method can be declared "final" to prevent subclasses from overriding it.
+  - A class can be declared "final" to prevent it from being extended.
+  - `final` is to improve the speed of a program
     
     
 
