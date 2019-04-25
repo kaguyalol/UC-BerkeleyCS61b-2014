@@ -8,5 +8,12 @@
   - Superclass of Exception and Error
   - Checked and Unchecked
     * Whether need to declare them in the signature
+  - `throws` 
+    * One method throws exception and another deal with the exception(`try` and `catch`)
+
+3. `finally`
+  - Must run regardless of an exception
+  - If try or catch block has return statement, `finally` still run
+    * Flow jumps to the `finally` and back to the return
   
       
