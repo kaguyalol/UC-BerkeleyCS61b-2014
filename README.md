@@ -117,6 +117,7 @@ Timeline
 - [ ] lecture note 18
 - [ ] reading: Sierra & Bates, pp. 80-84
 - [ ] recap 10
-- [ ] lecture note 
+- [ ] lecture note 19
+- [ ] reading: Sierra & Bates, p. 664
 
 
