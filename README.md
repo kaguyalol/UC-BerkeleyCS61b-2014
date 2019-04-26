@@ -110,7 +110,7 @@ Timeline
 
 *04/26/2019*
 - [x] lab 6
-- [ ] video 11
+- [x] video 11
 - [ ] lecture 17
 - [ ] hw 5
 - [ ] video 12
