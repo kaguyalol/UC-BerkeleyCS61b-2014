@@ -109,7 +109,7 @@ Timeline
 - [x] recap 9
 
 *04/26/2019*
-- [ ] lab 6
+- [x] lab 6
 - [ ] video 11
 - [ ] lecture 17
 - [ ] hw 5
