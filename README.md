@@ -111,8 +111,10 @@ Timeline
 *04/26/2019*
 - [x] lab 6
 - [x] video 11
-- [ ] lecture 17
+
+*04/27/2019*
 - [ ] hw 5
+- [ ] lecture 17
 - [ ] video 12
 - [ ] lecture note 18
 - [ ] reading: Sierra & Bates, pp. 80-84
