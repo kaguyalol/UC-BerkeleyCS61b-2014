@@ -112,8 +112,8 @@ Timeline
 - [x] lab 6
 - [x] video 11
 
-*04/27/2019*
-- [ ] hw 5
+*04/29/2019*
+- [x] hw 5
 - [ ] lecture 17
 - [ ] video 12
 - [ ] lecture note 18
