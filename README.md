@@ -111,17 +111,20 @@ Timeline
 *04/26/2019*
 - [x] lab 6
 - [x] video 11
+- [x] lecture note 17
 
 *04/29/2019*
 - [x] hw 5
 
 *04/30/2019*
 - [x] video 12
-- [ ] project 2: Design the classes, modules, and interfaces
-- [ ] lecture 17
 - [ ] lecture note 18
 - [ ] reading: Sierra & Bates, pp. 80-84
+- [ ] lecture note 19
+- [ ] reading: Sierra & Bates, p. 664
+- [ ] lab 7
 - [ ] recap 10
+- [ ] project 2: Design the classes, modules, and interfaces
 - [ ] lecture note 19
 - [ ] reading: Sierra & Bates, p. 664
 
