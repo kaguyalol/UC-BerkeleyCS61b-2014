@@ -114,9 +114,11 @@ Timeline
 
 *04/29/2019*
 - [x] hw 5
-- [ ] project 1: Design the classes, modules, and interfaces
+
+*04/30/2019*
+- [x] video 12
+- [ ] project 2: Design the classes, modules, and interfaces
 - [ ] lecture 17
-- [ ] video 12
 - [ ] lecture note 18
 - [ ] reading: Sierra & Bates, pp. 80-84
 - [ ] recap 10
