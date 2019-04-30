@@ -120,8 +120,8 @@ Timeline
 - [x] video 12
 - [x] lecture note 18
 - [x] reading: Sierra & Bates, pp. 80-84
-- [ ] lecture note 19
-- [ ] reading: Sierra & Bates, p. 664
+- [x] lecture note 19
+- [x] reading: Sierra & Bates, p. 664
 - [ ] lab 7
 - [ ] recap 10
 - [ ] project 2: Design the classes, modules, and interfaces
