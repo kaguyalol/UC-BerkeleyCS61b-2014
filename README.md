@@ -118,7 +118,7 @@ Timeline
 
 *04/30/2019*
 - [x] video 12
-- [ ] lecture note 18
+- [x] lecture note 18
 - [ ] reading: Sierra & Bates, pp. 80-84
 - [ ] lecture note 19
 - [ ] reading: Sierra & Bates, p. 664
