@@ -122,7 +122,9 @@ Timeline
 - [x] reading: Sierra & Bates, pp. 80-84
 - [x] lecture note 19
 - [x] reading: Sierra & Bates, p. 664
-- [ ] lab 7
+
+*03/03/2019*
+- [x] lab 7
 - [ ] recap 10
 - [ ] project 2: Design the classes, modules, and interfaces
 - [ ] lecture note 19
