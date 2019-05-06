@@ -135,6 +135,7 @@ Timeline
 - [ ] reading: Goodrich & Tamassia, Sections 9.1, 9.2, 9.5-9.5.1
 - [ ] lecture note 22
 - [ ] reading: Goodrich & Tamassia, Chapter 5
+- [ ] recap 10
 - [ ] hw 6
 - [ ] lab 8 
 - [ ] project 2: Design the classes, modules, and interfaces
