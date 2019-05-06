@@ -128,7 +128,7 @@ Timeline
 
 *03/06/2019*
 - [x] video 13
-- [ ] lecture note 20
+- [x] lecture note 20
 - [ ] reading: Goodrich & Tamassia, Chapter 4 (especially 4.2 and 4.3)
 - [ ] video 14
 - [ ] lecture note 21
