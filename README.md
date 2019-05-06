@@ -126,7 +126,16 @@ Timeline
 *03/03/2019*
 - [x] lab 7
 
-*03/04/2019*
+*03/06/2019*
+- [ ] video 13
+- [ ] lecture note 20
+- [ ] reading: Goodrich & Tamassia, Chapter 4 (especially 4.2 and 4.3)
+- [ ] video 14
+- [ ] lecture note 21
+- [ ] reading: Goodrich & Tamassia, Sections 9.1, 9.2, 9.5-9.5.1
+- [ ] lecture note 22
+- [ ] reading: Goodrich & Tamassia, Chapter 5
+- [ ] hw 6
 - [ ] lab 8 
 - [ ] project 2: Design the classes, modules, and interfaces
 
