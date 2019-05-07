@@ -39,12 +39,13 @@
       * Counting the number _t_ of primitive operations 
   - Measuring Operations as a Function of Input Size
     * _f(n)_ characterizes the number of primitive operations that are performed as a function of the **input size _n_**
-    * 
       
       
-
-  
 3. Asymptotic Analysis
+  - Functions
+    * Logarithm
+      * log4 n = (logn)/log4 = (logn)/2, by rule 4
+      
   - Big-Omega
     * Greater than or equal to
   - Big-Theta
