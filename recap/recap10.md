@@ -51,4 +51,5 @@
     * 3nlogn − 2n is Omega(nlogn)
   - Big-Theta
     * Grows at the same rate
+    * c'g(n) <= f (n) <= c''g(n)
 
