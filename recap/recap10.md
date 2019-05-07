@@ -8,6 +8,7 @@
     ```
   - StringBuilder
     ```java
+    /*O(n^2)*/
     public static String repeat1(char c, int n) {
       String answer = "";
       for (int j = 0; j < n; j++) {
@@ -15,7 +16,7 @@
       }
       return answer;
     }
-
+    /*O(n)*/
     public static String repeat2(char c, int n) {
       StringBuilder answer = new StringBuilder();
       for (int j = 0; j < n; j++) {
