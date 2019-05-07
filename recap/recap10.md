@@ -9,11 +9,11 @@
   - StringBuilder
     ```java
     public static String repeat1(char c, int n) {
-    String answer = "";
-    for (int j = 0; j < n; j++) {
-      answer += c;
-    }
-    return answer;
+      String answer = "";
+      for (int j = 0; j < n; j++) {
+        answer += c;
+      }
+      return answer;
     }
 
     public static String repeat2(char c, int n) {
@@ -24,9 +24,22 @@
       return answer.toString();
     }
     ```
+
+2. Analyzing Algorithms
+  - Counting Primitive Operations
+    * Primitive operations
+      * Assigning a value to a variable
+      * Following an object reference
+      * Performing an arithmetic operation
+      * Comparing two numbers
+      * Accessing a single element of an array by index
+      * Calling a method
+      * Returning from a method
+      
+      
+
   
-  
-2. Asymptotic Analysis
+3. Asymptotic Analysis
   - Big-Omega
     * Greater than or equal to
   - Big-Theta
