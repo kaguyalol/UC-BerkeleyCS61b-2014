@@ -37,6 +37,9 @@
       * Returning from a method
     * Running time
       * Counting the number _t_ of primitive operations 
+  - Measuring Operations as a Function of Input Size
+    * _f(n)_ characterizes the number of primitive operations that are performed as a function of the **input size _n_**
+    * 
       
       
 
