@@ -47,6 +47,10 @@
       
 3. Asymptotic Analysis
   - Big-Oh   
+    * O(n), creating and initializing the new array
+      ```java
+      String[] s = new String[n];
+      ```
   - Big-Omega
     * Greater than or equal to
     * 3nlogn − 2n is Omega(nlogn)
