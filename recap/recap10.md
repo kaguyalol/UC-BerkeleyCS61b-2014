@@ -35,6 +35,8 @@
       * Accessing a single element of an array by index
       * Calling a method
       * Returning from a method
+    * Running time
+      * Counting the number _t_ of primitive operations 
       
       
 
