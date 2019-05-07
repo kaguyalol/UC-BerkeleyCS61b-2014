@@ -44,7 +44,7 @@
 3. Asymptotic Analysis
   - Functions
     * Logarithm
-      * log4 n = (logn)/log4 = (logn)/2, by rule 4
+      * log4 n = (logn)/log4 = (logn)/2
       
   - Big-Omega
     * Greater than or equal to
