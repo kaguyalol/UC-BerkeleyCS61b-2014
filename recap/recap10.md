@@ -48,7 +48,7 @@
   - Big-Oh   
   - Big-Omega
     * Greater than or equal to
-    * 3nlogn − 2n is Ω(nlogn)
+    * 3nlogn − 2n is Omega(nlogn)
   - Big-Theta
     * Grows at the same rate
 
