@@ -142,6 +142,7 @@ Timeline
 
 *05/09/2019*
 - [x] Leetcode LRU
+- [ ] Understand java source code of HashMap & LinkedHashMap
 - [ ] recap 11
 - [ ] reading: Goodrich & Tamassia, Chapter 5
 - [ ] recap 10
