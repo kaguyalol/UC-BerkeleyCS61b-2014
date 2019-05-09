@@ -137,9 +137,11 @@ Timeline
 *05/08/2019*
 - [x] video 14
 - [x] lecture note 21
-- [ ] recap 11
 - [x] reading: Goodrich & Tamassia, Sections 9.1, 9.2, 9.5-9.5.1
 - [x] lecture note 22
+
+*05/09/2019*
+- [ ] recap 11
 - [ ] reading: Goodrich & Tamassia, Chapter 5
 - [ ] Leetcode LRU
 - [ ] recap 10
