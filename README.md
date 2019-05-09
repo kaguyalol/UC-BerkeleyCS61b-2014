@@ -141,9 +141,9 @@ Timeline
 - [x] lecture note 22
 
 *05/09/2019*
+- [x] Leetcode LRU
 - [ ] recap 11
 - [ ] reading: Goodrich & Tamassia, Chapter 5
-- [ ] Leetcode LRU
 - [ ] recap 10
 - [ ] hw 6
 - [ ] lab 8 
