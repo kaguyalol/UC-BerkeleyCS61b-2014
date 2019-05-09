@@ -137,6 +137,7 @@ Timeline
 *03/08/2019*
 - [x] video 14
 - [x] lecture note 21
+- [ ] recap 11
 - [ ] reading: Goodrich & Tamassia, Sections 9.1, 9.2, 9.5-9.5.1
 - [ ] lecture note 22
 - [ ] reading: Goodrich & Tamassia, Chapter 5
