@@ -123,18 +123,18 @@ Timeline
 - [x] lecture note 19
 - [x] reading: Sierra & Bates, p. 664
 
-*03/03/2019*
+*05/03/2019*
 - [x] lab 7
 
-*03/06/2019*
+*05/06/2019*
 - [x] video 13
 - [x] lecture note 20
 - [x] reading: Goodrich & Tamassia, 4.1
 
-*03/07/2019*
+*05/07/2019*
 - [x] reading: Goodrich & Tamassia, Chapter 4.2, 4.3
 
-*03/08/2019*
+*05/08/2019*
 - [x] video 14
 - [x] lecture note 21
 - [ ] recap 11
