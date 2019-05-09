@@ -138,9 +138,10 @@ Timeline
 - [x] video 14
 - [x] lecture note 21
 - [ ] recap 11
-- [ ] reading: Goodrich & Tamassia, Sections 9.1, 9.2, 9.5-9.5.1
-- [ ] lecture note 22
+- [x] reading: Goodrich & Tamassia, Sections 9.1, 9.2, 9.5-9.5.1
+- [x] lecture note 22
 - [ ] reading: Goodrich & Tamassia, Chapter 5
+- [ ] Leetcode LRU
 - [ ] recap 10
 - [ ] hw 6
 - [ ] lab 8 
