@@ -142,6 +142,8 @@ Timeline
 
 *05/09/2019*
 - [x] Leetcode LRU
+
+*05/10/2019*
 - [ ] hw 6
 - [ ] Understand java source code of [HashMap](http://hg.openjdk.java.net/jdk8/jdk8/jdk/file/687fd7c7986d/src/share/classes/java/util/HashMap.java) & [LinkedHashMap](https://github.com/openjdk-mirror/jdk7u-jdk/blob/master/src/share/classes/java/util/LinkedHashMap.java)
 - [ ] recap 11
