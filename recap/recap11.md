@@ -10,5 +10,6 @@
    * _undo_ in Text editors
  - Implementations of the Stack interface
    * Array
-    * 
+    * `java.util.Stack`
+    * It relies on a fixed-capacity array, which limits the ultimate size of the stack
    * LinkedList
