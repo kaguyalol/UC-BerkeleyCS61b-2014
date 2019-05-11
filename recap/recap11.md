@@ -6,9 +6,9 @@
 2. Stacks
  - _last in first out_
  - Applications:
-  * Internet Web browsers
-  * _undo_ in Text editors
+   * Internet Web browsers
+   * _undo_ in Text editors
  - Implementations of the Stack interface
-  * Array
-   * 
-  * LinkedList
+   * Array
+    * 
+   * LinkedList
