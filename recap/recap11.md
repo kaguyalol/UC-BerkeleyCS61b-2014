@@ -65,7 +65,7 @@
      * With a tail pointer
      * Josephus Problem
        ```java
-       /* Time complixity O(nk) */
+       /* Time complexity O(nk) */
        public static <E> E Josephus(CircularQueue<E> queue, int k) {
          if (queue.isEmpty()) return null;
          while (queue.size() > 1) {
