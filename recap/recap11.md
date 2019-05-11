@@ -77,3 +77,7 @@
          return queue.dequeue(); // the winner
        }
        ```
+       
+4. Double-Ended Queues (_Deque_)
+ - Doubly Linked List
+ - Interface `java.util.Deque`
