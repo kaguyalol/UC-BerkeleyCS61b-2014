@@ -35,3 +35,20 @@
       return buffer.isEmpty();
      }
      ```
+     
+3. Queues
+ - FIFO
+ - Implementations
+   * Circular Array 
+     ```java
+     /**
+      * f index of the front element
+      * sz current number of elements
+      */
+     public void enqueue(E e) throws IllegalStateException {
+       if (sz == data.length) throw new IllegalStateException("Queue is full");
+       int avail = (f + sz) % data.length; // use modular arithmetic
+       data[avail] = e;
+       sz++;
+     }
+     ```
