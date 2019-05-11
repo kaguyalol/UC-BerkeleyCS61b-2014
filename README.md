@@ -145,9 +145,19 @@ Timeline
 
 *05/10/2019*
 - [x] hw 6
+- [x] recap 11
+- [x] reading: Goodrich & Tamassia, Chapter 5
+- [ ] video 15
+- [ ] lecture note 23
+- [ ] reading: G & T, Chapter 4
+- [ ] video 16
+- [ ] lecture note 24
+- [ ] reading: G & T, Chapter 7
+- [ ] lecture note 25
+- [ ] reading: G & T, Sections 8.1–8.3
+- [ ] recap 12
+- [ ] lab 9
 - [ ] Understand java source code of [HashMap](http://hg.openjdk.java.net/jdk8/jdk8/jdk/file/687fd7c7986d/src/share/classes/java/util/HashMap.java) & [LinkedHashMap](https://github.com/openjdk-mirror/jdk7u-jdk/blob/master/src/share/classes/java/util/LinkedHashMap.java)
-- [ ] recap 11
-- [ ] reading: Goodrich & Tamassia, Chapter 5
 - [ ] recap 10
 - [ ] lab 8 
 - [ ] project 2: Design the classes, modules, and interfaces
