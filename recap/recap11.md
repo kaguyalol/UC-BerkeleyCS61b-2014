@@ -51,4 +51,12 @@
        data[avail] = e;
        sz++;
      }
+     
+     public E dequeue( ) {
+       if (isEmpty()) return null;
+       E answer = data[f];
+       f = (f + 1) % data.length;
+       sz−−;
+       return answer;
+     }
      ```
