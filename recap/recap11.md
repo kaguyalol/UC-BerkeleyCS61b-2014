@@ -13,7 +13,7 @@
      * `java.util.Stack`
      * It relies on a fixed-capacity array, which limits the ultimate size of the stack
      * Waste space, _O(N)_
-   * Singly LinkedList
+   * Singly Linked List
      * Flixible length
      * `insertFront()`
  - Sample applications
@@ -40,6 +40,7 @@
  - FIFO
  - Implementations
    * Circular Array 
+     * space usage is O(N)
      ```java
      /**
       * f index of the front element
@@ -60,3 +61,18 @@
        return answer;
      }
      ```
+   * Singly Linked List
+     * With a tail pointer
+     * Josephus Problem
+       ```java
+       public static <E> E Josephus(CircularQueue<E> queue, int k) {
+         if (queue.isEmpty()) return null;
+         while (queue.size() > 1) {
+           for (int i = 0; i < k - 1; i++) {  // skip k - 1 elemnts
+             queue.rotate();
+           }
+           E e = queue.dequeue(); // remove the front element from the collection
+         }
+         return queue.dequeue(); // the winner
+       }
+       ```
