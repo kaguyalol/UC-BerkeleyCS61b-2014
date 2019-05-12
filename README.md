@@ -153,8 +153,9 @@ Timeline
 - [x] lecture note 23
 
 *05/12/2019*
+- [x] reading: G & T, Chapter 4
+- [x] recap 10
 - [ ] Leetcode Find First and Last Position of Element in Sorted Array
-- [ ] reading: G & T, Chapter 4
 - [ ] video 16
 - [ ] lecture note 24
 - [ ] reading: G & T, Chapter 7
@@ -163,7 +164,6 @@ Timeline
 - [ ] recap 12
 - [ ] lab 9
 - [ ] Understand java source code of [HashMap](http://hg.openjdk.java.net/jdk8/jdk8/jdk/file/687fd7c7986d/src/share/classes/java/util/HashMap.java) & [LinkedHashMap](https://github.com/openjdk-mirror/jdk7u-jdk/blob/master/src/share/classes/java/util/LinkedHashMap.java)
-- [ ] recap 10
 - [ ] lab 8 
 - [ ] project 2: Design the classes, modules, and interfaces
 
