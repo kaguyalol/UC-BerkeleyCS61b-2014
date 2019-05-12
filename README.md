@@ -147,7 +147,8 @@ Timeline
 - [x] hw 6
 - [x] recap 11
 - [x] reading: Goodrich & Tamassia, Chapter 5
-- [ ] video 15
+- [x] video 15
+- [ ] Leetcode Find First and Last Position of Element in Sorted Array
 - [ ] lecture note 23
 - [ ] reading: G & T, Chapter 4
 - [ ] video 16
