@@ -145,11 +145,15 @@ Timeline
 
 *05/10/2019*
 - [x] hw 6
+
+*05/11/2019*
 - [x] recap 11
 - [x] reading: Goodrich & Tamassia, Chapter 5
 - [x] video 15
-- [ ] Leetcode Find First and Last Position of Element in Sorted Array
 - [x] lecture note 23
+
+*05/12/2019*
+- [ ] Leetcode Find First and Last Position of Element in Sorted Array
 - [ ] reading: G & T, Chapter 4
 - [ ] video 16
 - [ ] lecture note 24
