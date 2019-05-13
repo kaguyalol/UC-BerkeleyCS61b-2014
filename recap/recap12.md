@@ -35,7 +35,7 @@
        * Store null if no left or right
        * Maintain a roots stack
        */
-      while candidates is not null:
+      while candidates is not empty:
         r = candisates.pop()
         if r is null:
           roots.pop() and add it to the result 
