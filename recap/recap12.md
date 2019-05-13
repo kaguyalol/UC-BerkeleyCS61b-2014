@@ -37,7 +37,7 @@
        */
       while candidates is not null:
         r = candisates.pop()
-        if r is not null:
+        if r is null:
           roots.pop() and add it to the result 
         else:
           if r has children:
