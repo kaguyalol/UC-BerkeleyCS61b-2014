@@ -157,6 +157,8 @@ Timeline
 - [x] recap 10
 - [x] Leetcode Find First and Last Position of Element in Sorted Array
 - [x] video 16
+
+*05/13/2019*
 - [ ] lecture note 24
 - [ ] reading: G & T, Chapter 7
 - [ ] lecture note 25
