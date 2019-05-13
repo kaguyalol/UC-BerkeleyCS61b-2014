@@ -17,3 +17,32 @@
         return h;
       }
       ```
+  - Binary Tree
+    * A binary tree is **proper** if each node has either zero or two children
+    * Inorder Traversal Iteratively
+      ```java
+      public class TreeNode {
+        int val;
+        TreeNode left;
+        TreeNode right;
+        TreeNode(int x) { val = x; }
+      }
+      ```
+      ```
+      /**
+       * Store candidates in a stack
+       * Store children from right to left
+       * Store null if no left or right
+       * Maintain a roots stack
+       */
+      while candidates is not null:
+        r = candisates.pop()
+        if r is not null:
+          roots.pop() and add it to the result 
+        else:
+          if r has children:
+            roots.push() and candidates.push()
+          else:
+            result.push(r)
+            roots.pop() and add it to the result 
+      ```
