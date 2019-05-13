@@ -159,7 +159,7 @@ Timeline
 - [x] video 16
 
 *05/13/2019*
-- [ ] lecture note 24
+- [x] lecture note 24
 - [ ] reading: G & T, Chapter 7
 - [ ] lecture note 25
 - [ ] reading: G & T, Sections 8.1–8.3
