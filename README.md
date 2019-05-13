@@ -160,7 +160,8 @@ Timeline
 
 *05/13/2019*
 - [x] lecture note 24
-- [ ] reading: G & T, Chapter 7
+- [x] reading: G & T, Chapter 8.1-8.4.4
+- [x] Leetcode Binary Tree Inorder Traversal Iterative Solution 
 - [ ] lecture note 25
 - [ ] reading: G & T, Sections 8.1–8.3
 - [ ] recap 12
