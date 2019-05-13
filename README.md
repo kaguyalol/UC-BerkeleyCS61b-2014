@@ -164,6 +164,7 @@ Timeline
 - [x] Leetcode Binary Tree Inorder Traversal Iterative Solution 
 - [x] lecture note 25
 - [ ] reading: G & T, Sections 8.1–8.3
+- [ ] reading: G & T, Sections 3.1.5
 - [ ] recap 12
 - [ ] lab 9
 - [ ] Understand java source code of [HashMap](http://hg.openjdk.java.net/jdk8/jdk8/jdk/file/687fd7c7986d/src/share/classes/java/util/HashMap.java) & [LinkedHashMap](https://github.com/openjdk-mirror/jdk7u-jdk/blob/master/src/share/classes/java/util/LinkedHashMap.java)
