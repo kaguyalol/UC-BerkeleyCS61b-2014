@@ -46,3 +46,22 @@
             result.push(r)
             roots.pop() and add it to the result 
       ```
+
+2. Priority Queue
+  - Implementation
+    * Entry
+      ```java
+      public interface Entry<K, V> {
+        K getKey();
+        V get Value();
+      }
+      ```
+      ```java
+      public interface PriorityQueue<K, V> {
+        int size();
+        boolean isEmpty();
+        Entry<K,V> insert(K key, V value) throws IllegalArgumentException;
+        Entry<K,V> min();
+        Entry<K,V> removeMin();
+      }
+      ```
