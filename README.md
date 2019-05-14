@@ -170,6 +170,7 @@ Timeline
 - [x] video 17
 - [ ] lecture note 26
 - [ ] reading: Goodrich & Tamassia, Section 11.1
+- [ ] recap 13
 - [ ] reading: G & T, Sections 3.1.5
 - [ ] Understand java source code of [HashMap](http://hg.openjdk.java.net/jdk8/jdk8/jdk/file/687fd7c7986d/src/share/classes/java/util/HashMap.java) & [LinkedHashMap](https://github.com/openjdk-mirror/jdk7u-jdk/blob/master/src/share/classes/java/util/LinkedHashMap.java)
 - [ ] lab 8 
