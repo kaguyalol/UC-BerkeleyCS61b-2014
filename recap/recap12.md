@@ -114,5 +114,23 @@
           }
         }
         ```
+      * Construct a heap
+        ```java
+        /* Constructor */
+        public HeapPriorityQueue(K[ ] keys, V[ ] values) {
+          super();
+          for (int j=0; j < Math.min(keys.length, values.length); j++) {
+            heap.add(new PQEntry<>(keys[j], values[j]));
+          }
+          heapify( );
+        }
+        
+        protected void heapify() {
+          int startIndex = parent(size()−1);
+          for (int i = startIndex; i >= 0; i--) {
+            downheap(i);
+          }
+        }
+        ```
       
      
