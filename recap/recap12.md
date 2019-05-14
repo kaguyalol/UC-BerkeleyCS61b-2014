@@ -114,7 +114,7 @@
           }
         }
         ```
-      * Construct a heap
+      * Construct a heap, _O(N)_
         ```java
         /* Constructor */
         public HeapPriorityQueue(K[] keys, V[] values) {
