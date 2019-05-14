@@ -65,3 +65,6 @@
         Entry<K,V> removeMin();
       }
       ```
+        * Comparable vs Comparator
+          * Comparable follows **natural ordering**, `a.compareTo(b)`
+          * Comparator follows some notion other than their natural ordering, e.g. which string is shorter, `compare(a, b)`
