@@ -167,7 +167,7 @@ Timeline
 *05/14/2019*
 - [x] reading: G & T, Sections 9.1–9.3
 - [x] recap 12
-- [ ] video 17
+- [x] video 17
 - [ ] lecture note 26
 - [ ] reading: Goodrich & Tamassia, Section 11.1
 - [ ] reading: G & T, Sections 3.1.5
