@@ -117,7 +117,7 @@
       * Construct a heap
         ```java
         /* Constructor */
-        public HeapPriorityQueue(K[ ] keys, V[ ] values) {
+        public HeapPriorityQueue(K[] keys, V[] values) {
           super();
           for (int j=0; j < Math.min(keys.length, values.length); j++) {
             heap.add(new PQEntry<>(keys[j], values[j]));
