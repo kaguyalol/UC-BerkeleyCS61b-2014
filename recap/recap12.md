@@ -81,5 +81,38 @@
        }
       ```
     * Binary Heap
+      * ArrayList representation
+        ```java
+        protected int parent(int j) { return (j−1) / 2; }
+        protected int left(int j) { return 2*j + 1; }
+        protected int right(int j) { return 2*j + 2; }
+        protected boolean hasLeft(int j) { return left(j) < heap.size(); }
+        protected boolean hasRight(int j) { return right(j) < heap.size(); }
+        
+        protected void upheap(int j) {
+          while (j > 0) {
+            int p = parent(j);
+            if (compare(heap.get(j), heap.get(p)) >= 0) break;
+            swap(j, p);
+            j = p;
+          }
+        }
+        
+        protected void downheap(int j) {
+          while (hasLeft(j)) {
+            int leftIndex = left(j);
+            int smallChildIndex = leftIndex;
+            if (hasRight(j)) {
+              int rightIndex = right(j);
+              if (compare(heap.get(leftIndex), heap.get(rightIndex)) > 0) {
+                smallChildIndex = rightIndex;
+              }
+            }
+            if (compare(heap.get(j), heap.get(smallChildIndex)) < 0) break;
+            swap(j, smallChildIndex);
+            j = smallChildIndex;
+          }
+        }
+        ```
       
      
