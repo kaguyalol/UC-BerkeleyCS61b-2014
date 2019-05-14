@@ -122,7 +122,7 @@
           for (int j=0; j < Math.min(keys.length, values.length); j++) {
             heap.add(new PQEntry<>(keys[j], values[j]));
           }
-          heapify( );
+          heapify();
         }
         
         protected void heapify() {
