@@ -68,3 +68,16 @@
         * Comparable vs Comparator
           * Comparable follows **natural ordering**, `a.compareTo(b)`
           * Comparator follows some notion other than their natural ordering, e.g. which string is shorter, `compare(a, b)`
+    * Comparators and the Priority Queue ADT
+      ```java
+      /**
+       * Allow a default priority queue to instead rely on the natural ordering for the given keys 
+       * Assuming those keys come from a comparable class
+       */
+       public class DefaultComparator<E> implements Comparator<E> {
+         public int compare(E a, E b) throws ClassCastException {
+           return ((Comparable<E>) a).compareTo(b);
+         }
+       }
+      ```
+     
