@@ -170,6 +170,7 @@ Timeline
 - [x] video 17
 - [x] reading: G & T, Sections 3.1.5
 - [x] lecture note 26
+- [x] Implement Minimax on Tic Tac Toe
 - [ ] reading: Goodrich & Tamassia, Section 11.1
 - [ ] recap 13
 - [ ] Leetcode Meeting Rooms II wl Priority Queue
