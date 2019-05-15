@@ -173,8 +173,9 @@ Timeline
 - [x] Implement Minimax on Tic Tac Toe
 
 *05/15/2019*
-- [ ] lab 8 
-- [ ] project 2: Design the classes, modules, and interfaces
+- [x] lab 8 
+- [x] project 2: Design the classes, modules, and interfaces
+- [ ] project 2: Have working code for the easier modules
 - [ ] reading: Goodrich & Tamassia, Section 11.1
 - [ ] recap 13
 - [ ] Leetcode Meeting Rooms II wl Priority Queue
