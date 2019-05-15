@@ -169,7 +169,7 @@ Timeline
 - [x] recap 12
 - [x] video 17
 - [x] reading: G & T, Sections 3.1.5
-- [ ] lecture note 26
+- [x] lecture note 26
 - [ ] reading: Goodrich & Tamassia, Section 11.1
 - [ ] recap 13
 - [ ] Leetcode Meeting Rooms II wl Priority Queue
