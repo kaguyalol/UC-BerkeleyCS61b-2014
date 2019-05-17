@@ -175,9 +175,18 @@ Timeline
 *05/15/2019*
 - [x] lab 8 
 - [x] project 2: Design the classes, modules, and interfaces
-- [ ] project 2: Have working code for the easier modules
+- [x] project 2: Have working code for the easier modules
+
+*05/16/2019*
 - [ ] reading: Goodrich & Tamassia, Section 11.1
+- [ ] video 18
+- [ ] lecture note 27
+- [ ] reading: Goodrich & Tamassia, Section 11.4
+- [ ] lecture note 28
+- [ ] reading: G & T, Sections 13.1–13.3
 - [ ] recap 13
+- [ ] lab 10
+- [ ] project 2: Have working code for identifying a network; progress on search
 - [ ] Leetcode Meeting Rooms II wl Priority Queue
 - [ ] Understand java source code of [HashMap](http://hg.openjdk.java.net/jdk8/jdk8/jdk/file/687fd7c7986d/src/share/classes/java/util/HashMap.java) & [LinkedHashMap](https://github.com/openjdk-mirror/jdk7u-jdk/blob/master/src/share/classes/java/util/LinkedHashMap.java)
 
