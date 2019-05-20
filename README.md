@@ -177,8 +177,8 @@ Timeline
 - [x] project 2: Design the classes, modules, and interfaces
 - [x] project 2: Have working code for the easier modules
 
-*05/16/2019*
-- [ ] reading: Goodrich & Tamassia, Section 11.1
+*05/21/2019*
+- [x] reading: Goodrich & Tamassia, Section 11.1
 - [ ] video 18
 - [ ] lecture note 27
 - [ ] reading: Goodrich & Tamassia, Section 11.4
