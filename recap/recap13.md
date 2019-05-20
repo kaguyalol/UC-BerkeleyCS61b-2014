@@ -98,6 +98,34 @@
           return old;
         }
       }
+      /∗∗ Returns the entry with greatest key less than or equal to given key (if any) ∗/
+      public Entry<K,V> floorEntry(K key) throws IllegalArgumentException {
+        checkKey(key);
+        Position<Entry<K,V>> p = treeSearch(root(), key);
+        if (isInternal(p)) return p.getElement();
+        while (!isRoot(p)) {
+          if (p == right(parent(p)))
+            return parent(p).getElement();
+          else
+            p = parent(p);
+        }
+        return null;
+      }
+      
+      /∗∗ Returns the entry with greatest key strictly less than given key (if any) ∗/
+      public Entry<K,V> lowerEntry(K key) throws IllegalArgumentException {
+        checkKey(key);
+        Position<Entry<K,V>> p = treeSearch(root(), key);
+        if (isInternal(p) && isInternal(left(p))) 
+          return treeMax(left(p)).getElement();
+        while (!isRoot(p)) {
+          if (p == right(parent(p)))
+            return parent(p).getElement();
+          else
+            p = parent(p);
+        }
+        return null;
+      }
     }
     ```
   
