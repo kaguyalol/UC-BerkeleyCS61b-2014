@@ -11,4 +11,6 @@
         expandExternal(p, (k,v)) 
       ```
       * expandExternal(p, (k,v)) Stores entry e at the external position p, and expands p to be internal, **having two new leaves as children**
+      
+  - 
   
