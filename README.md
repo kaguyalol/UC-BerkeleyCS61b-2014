@@ -181,7 +181,7 @@ Timeline
 - [x] reading: Goodrich & Tamassia, Section 11.1
 - [x] video 18
 - [x] lecture note 27
-- [ ] reading: Goodrich & Tamassia, Section 11.4
+- [ ] reading: Goodrich & Tamassia, Section 11.2
 - [ ] lecture note 28
 - [ ] reading: G & T, Sections 13.1–13.3
 - [ ] recap 13
