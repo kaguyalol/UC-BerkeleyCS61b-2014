@@ -179,7 +179,7 @@ Timeline
 
 *05/21/2019*
 - [x] reading: Goodrich & Tamassia, Section 11.1
-- [ ] video 18
+- [x] video 18
 - [ ] lecture note 27
 - [ ] reading: Goodrich & Tamassia, Section 11.4
 - [ ] lecture note 28
