@@ -185,7 +185,7 @@ Timeline
 
 *05/22/2019*
 - [x] lab 10
-- [ ] lecture note 28
+- [x] lecture note 28
 - [ ] video 19
 - [ ] lecture note 29
 - [ ] hw 7
