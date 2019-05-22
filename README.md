@@ -187,7 +187,7 @@ Timeline
 - [x] lab 10
 - [x] lecture note 28
 - [x] video 19
-- [ ] lecture note 29
+- [x] lecture note 29
 - [ ] hw 7
 - [ ] video 20
 - [ ] lecture note 30
