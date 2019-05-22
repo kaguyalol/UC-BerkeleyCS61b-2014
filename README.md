@@ -189,6 +189,8 @@ Timeline
 - [x] video 19
 - [x] lecture note 29
 - [x] reading: G & T, Sections 13.5.1, 13.6–13.6.1
+
+*05/22/2019*
 - [ ] hw 7
 - [ ] video 20
 - [ ] lecture note 30
