@@ -188,6 +188,7 @@ Timeline
 - [x] lecture note 28
 - [x] video 19
 - [x] lecture note 29
+- [ ] reading: G & T, Sections 13.5.1, 13.6–13.6.1
 - [ ] hw 7
 - [ ] video 20
 - [ ] lecture note 30
