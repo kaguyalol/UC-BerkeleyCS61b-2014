@@ -192,7 +192,7 @@ Timeline
 
 *05/22/2019*
 - [x] hw 7
-- [ ] video 20
+- [x] video 20
 - [ ] lecture note 30
 - [ ] reading: G & T, Sections 8.2.2, 8.3.5, & 11.1
 - [ ] lecture note 31
