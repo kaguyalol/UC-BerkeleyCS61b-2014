@@ -195,7 +195,7 @@ Timeline
 - [x] video 20
 
 *05/23/2019*
-- [ ] lecture note 30
+- [x] lecture note 30
 - [ ] reading: G & T, Sections 8.2.2, 8.3.5, & 11.1
 - [ ] lecture note 31
 - [ ] reading: G & T, Section 11.2.1
