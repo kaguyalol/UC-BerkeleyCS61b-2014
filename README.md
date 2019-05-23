@@ -194,7 +194,9 @@ Timeline
 - [x] hw 7
 - [ ] video 20
 - [ ] lecture note 30
+- [ ] reading: G & T, Sections 8.2.2, 8.3.5, & 11.1
 - [ ] lecture note 31
+- [ ] reading: G & T, Section 11.2
 - [ ] recap 14
 - [ ] lab 11
 - [ ] project 2: Have working code for identifying a network; progress on search
