@@ -198,9 +198,14 @@ Timeline
 - [x] lecture note 30
 - [x] reading: G & T, Sections 8.2.2, 8.3.5, & 11.1- 11.1.4
 - [x] lecture note 31
-- [ ] reading: G & T, Section 11.2.1
-- [ ] recap 14
+- [x] reading: G & T, Section 11.2.1
 - [ ] lab 11
+- [ ] recap 14
+- [ ] video 21
+- [ ] lecture note 33
+- [ ] reading: Goodrich & Tamassia, Section 11.4
+- [ ] lecture note 34
+- [ ] reading: Goodrich & Tamassia, Sections 11.3.1 & 11.5
 - [ ] project 2: Have working code for identifying a network; progress on search
 - [ ] Leetcode Meeting Rooms II wl Priority Queue
 - [ ] Understand java source code of [HashMap](http://hg.openjdk.java.net/jdk8/jdk8/jdk/file/687fd7c7986d/src/share/classes/java/util/HashMap.java) & [LinkedHashMap](https://github.com/openjdk-mirror/jdk7u-jdk/blob/master/src/share/classes/java/util/LinkedHashMap.java)
