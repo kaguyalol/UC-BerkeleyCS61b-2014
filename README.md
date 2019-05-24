@@ -200,10 +200,10 @@ Timeline
 - [x] lecture note 31
 - [x] reading: G & T, Section 11.2.1
 - [x] lab 11
-- [ ] recap 14
 - [ ] video 21
+- [ ] recap 14
 - [ ] lecture note 33
-- [ ] reading: Goodrich & Tamassia, Section 11.4
+- [ ] reading: Goodrich & Tamassia, Section 11.4(11.4.3 first)
 - [ ] lecture note 34
 - [ ] reading: Goodrich & Tamassia, Sections 11.3.1 & 11.5
 - [ ] hw 8
