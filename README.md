@@ -203,9 +203,9 @@ Timeline
 - [x] video 21
 
 *05/23/2019*
+- [x] reading: Goodrich & Tamassia, Section 11.4(11.4.3 first)
 - [ ] recap 14
 - [ ] lecture note 33
-- [ ] reading: Goodrich & Tamassia, Section 11.4(11.4.3 first)
 - [ ] lecture note 34
 - [ ] reading: Goodrich & Tamassia, Sections 11.3.1 & 11.5
 - [ ] hw 8
