@@ -200,7 +200,9 @@ Timeline
 - [x] lecture note 31
 - [x] reading: G & T, Section 11.2.1
 - [x] lab 11
-- [ ] video 21
+- [x] video 21
+
+*05/23/2019*
 - [ ] recap 14
 - [ ] lecture note 33
 - [ ] reading: Goodrich & Tamassia, Section 11.4(11.4.3 first)
