@@ -199,7 +199,7 @@ Timeline
 - [x] reading: G & T, Sections 8.2.2, 8.3.5, & 11.1- 11.1.4
 - [x] lecture note 31
 - [x] reading: G & T, Section 11.2.1
-- [ ] lab 11
+- [x] lab 11
 - [ ] recap 14
 - [ ] video 21
 - [ ] lecture note 33
