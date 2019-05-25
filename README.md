@@ -202,12 +202,15 @@ Timeline
 - [x] lab 11
 - [x] video 21
 
-*05/23/2019*
+*05/24/2019*
 - [x] reading: Goodrich & Tamassia, Section 11.4(11.4.3 first)
+- [x] reading: Goodrich & Tamassia, Sections 11.5-11.5.2
+
+*05/25/2019*
+- [ ] reading: Goodrich & Tamassia, Sections 11.3.1
 - [ ] recap 14
 - [ ] lecture note 33
 - [ ] lecture note 34
-- [x] reading: Goodrich & Tamassia, Sections 11.3.1 & 11.5-11.5.2
 - [ ] hw 8
 - [ ] lab 12
 - [ ] project 2: Have working code for identifying a network; progress on search
