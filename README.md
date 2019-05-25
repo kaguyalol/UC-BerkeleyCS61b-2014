@@ -208,9 +208,9 @@ Timeline
 
 *05/25/2019*
 - [x] reading: Goodrich & Tamassia, Sections 11.3.1
-- [ ] recap 14
-- [ ] lecture note 33
-- [ ] lecture note 34
+- [x] recap 14
+- [x] lecture note 33
+- [x] lecture note 34
 - [ ] hw 8
 - [ ] lab 12
 - [ ] project 2: Have working code for identifying a network; progress on search
