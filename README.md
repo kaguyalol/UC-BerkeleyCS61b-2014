@@ -207,7 +207,7 @@ Timeline
 - [ ] recap 14
 - [ ] lecture note 33
 - [ ] lecture note 34
-- [ ] reading: Goodrich & Tamassia, Sections 11.3.1 & 11.5
+- [x] reading: Goodrich & Tamassia, Sections 11.3.1 & 11.5-11.5.2
 - [ ] hw 8
 - [ ] lab 12
 - [ ] project 2: Have working code for identifying a network; progress on search
