@@ -207,7 +207,7 @@ Timeline
 - [x] reading: Goodrich & Tamassia, Sections 11.5-11.5.2
 
 *05/25/2019*
-- [ ] reading: Goodrich & Tamassia, Sections 11.3.1
+- [x] reading: Goodrich & Tamassia, Sections 11.3.1
 - [ ] recap 14
 - [ ] lecture note 33
 - [ ] lecture note 34
