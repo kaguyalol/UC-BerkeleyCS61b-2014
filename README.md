@@ -213,7 +213,7 @@ Timeline
 - [x] lecture note 34
 
 *05/27/2019*
-- [ ] hw 8
+- [x] hw 8
 - [ ] lab 12
 - [ ] project 2: Have working code for identifying a network; progress on search
 - [ ] Leetcode Meeting Rooms II wl Priority Queue
