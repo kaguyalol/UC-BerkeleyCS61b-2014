@@ -17,4 +17,5 @@
   ```
 
 - PartIV
-  * Merge Sort is not stable
+  * Merge Sort is not stable, since mergeSortedQueues() only choose one entry when there are two same keys 
+  * Quick Sort is stable, since the partition() is following the sequence of input
