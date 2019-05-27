@@ -214,7 +214,7 @@ Timeline
 
 *05/27/2019*
 - [x] hw 8
-- [ ] video 22
+- [x] video 22
 - [ ] lecture note 35
 - [ ] reading: Goodrich & Tamassia, Sections 11.3.2
 - [ ] hw 9
