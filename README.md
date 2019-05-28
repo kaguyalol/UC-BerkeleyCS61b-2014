@@ -216,7 +216,7 @@ Timeline
 - [x] hw 8
 - [x] video 22
 - [x] lecture note 35
-- [ ] reading: Goodrich & Tamassia, Sections 11.3.2
+- [x] reading: Goodrich & Tamassia, Sections 11.3.2
 - [ ] hw 9
 - [ ] project 2: Have working code for identifying a network; progress on search
 - [ ] Leetcode Meeting Rooms II wl Priority Queue
