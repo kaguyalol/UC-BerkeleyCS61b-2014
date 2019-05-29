@@ -31,4 +31,6 @@
      each time?  Specifically, what decision should be made by random numbers
      at each recursive invocation of the depth-first search method?
      ```
+     By generating a random number for determining the direction of traverse,
+     then invoking dfs method randomly
      ```
