@@ -22,7 +22,8 @@
      cells, but no more than one path between any pair of cells (i.e., no
      cycles)?_
      ```
-     All walls will be initialized as false, which means all cells are connected.
+     All walls will be initialized as true, and all cells will be traversed to check whether 
+     need to unblock the wall.
      dfs will ensures there is no loop existing.
      ```
   * _How does your algorithm use random numbers to generate a different maze
