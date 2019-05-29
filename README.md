@@ -224,7 +224,7 @@ Timeline
 
 *05/28/2019*
 - [x] lecture note 36
-- [ ] reading: Goodrich & Tamassia, Section 10.3
+- [x] reading: Goodrich & Tamassia, Section 10.3- 10.3.2
 - [ ] lecture note 37
 - [ ] Understand Fisher–Yates shuffle Algorithm
 - [ ] Leetcode: 148. Sort List
