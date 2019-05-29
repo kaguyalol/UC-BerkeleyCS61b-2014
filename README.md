@@ -220,6 +220,11 @@ Timeline
 
 *05/28/2019*
 - [x] hw 9
+- [ ] video 23
+- [ ] lecture note 36
+- [ ] reading: Goodrich & Tamassia, Section 10.3
+- [ ] lecture note 37
+- [ ] Understand Fisher–Yates shuffle Algorithm
 - [ ] Leetcode: 148. Sort List
 - [ ] Leetcode: 547. Friend Circles
 - [ ] Union Find Detect Cycle in Undirected Graph
