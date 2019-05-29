@@ -223,7 +223,6 @@ Timeline
 - [x] video 23
 - [ ] lecture note 36
 - [ ] reading: Goodrich & Tamassia, Section 10.3
-- [ ] video 24
 - [ ] lecture note 37
 - [ ] Understand Fisher–Yates shuffle Algorithm
 - [ ] Leetcode: 148. Sort List
