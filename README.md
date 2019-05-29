@@ -223,7 +223,7 @@ Timeline
 - [x] video 23
 
 *05/28/2019*
-- [ ] lecture note 36
+- [x] lecture note 36
 - [ ] reading: Goodrich & Tamassia, Section 10.3
 - [ ] lecture note 37
 - [ ] Understand Fisher–Yates shuffle Algorithm
