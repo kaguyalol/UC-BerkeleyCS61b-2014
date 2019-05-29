@@ -18,18 +18,18 @@
   ```
 
 - Part II
-  * How would your algorithm ensure that there is a path between every pair of
+  * _How would your algorithm ensure that there is a path between every pair of
      cells, but no more than one path between any pair of cells (i.e., no
-     cycles)?
+     cycles)?_
      ```
      If the cell has not been visited, then set the value of the wall to false, 
      and maintaining an array to record the visit status of all cells, if the cell
      has been visited, then there is a cycle in the path, then go back to block 
      all walls between source cell and destination cell
      ```
-  * How does your algorithm use random numbers to generate a different maze
+  * _How does your algorithm use random numbers to generate a different maze
      each time?  Specifically, what decision should be made by random numbers
-     at each recursive invocation of the depth-first search method?
+     at each recursive invocation of the depth-first search method?_
      ```
      By generating a random number for determining the direction of traverse,
      then invoking dfs method randomly
