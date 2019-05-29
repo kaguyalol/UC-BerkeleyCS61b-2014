@@ -225,7 +225,17 @@ Timeline
 *05/28/2019*
 - [x] lecture note 36
 - [x] reading: Goodrich & Tamassia, Section 10.3- 10.3.2
-- [ ] lecture note 37
+- [x] lecture note 37
+- [ ] lab 13
+- [ ] video 24
+- [ ] lecture note 38
+- [ ] video 25
+- [ ] lecture note 39
+- [ ] reading: Goodrich & Tamassia, Sections 14.1.2-14.1.3
+- [ ] lecture note 40
+- [ ] lab 14
+- [ ] hw 10
+- [ ] lab 15
 - [ ] Understand Fisher–Yates shuffle Algorithm
 - [ ] Leetcode: 148. Sort List
 - [ ] Leetcode: 547. Friend Circles
