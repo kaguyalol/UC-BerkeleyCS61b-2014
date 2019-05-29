@@ -33,3 +33,12 @@
      By generating a random number for determining the direction of traverse,
      then invoking dfs method randomly
      ```
+  **Algorithm**
+   ```
+   1. Randomly choose start cell
+   2. Randomly permutate the sequence of available directions
+   3. Invoke dfs method towards each direction recursively
+    3.1. Check whether out of bound or the next cell is unvisited
+      3.1.1 Mark the cell as visited 
+      3.1.2 Block the wall
+   ```
