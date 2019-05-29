@@ -221,6 +221,8 @@ Timeline
 *05/28/2019*
 - [ ] hw 9
 - [ ] Leetcode: 148. Sort List
+- [ ] Leetcode: Union Find
+- [ ] Leetcode: Deepth Search First
 - [ ] project 2: Have working code for identifying a network; progress on search
 - [ ] Leetcode Meeting Rooms II wl Priority Queue
 - [ ] Understand java source code of [HashMap](http://hg.openjdk.java.net/jdk8/jdk8/jdk/file/687fd7c7986d/src/share/classes/java/util/HashMap.java) & [LinkedHashMap](https://github.com/openjdk-mirror/jdk7u-jdk/blob/master/src/share/classes/java/util/LinkedHashMap.java)
