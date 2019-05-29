@@ -217,6 +217,8 @@ Timeline
 - [x] video 22
 - [x] lecture note 35
 - [x] reading: Goodrich & Tamassia, Sections 11.3.2
+
+*05/28/2019*
 - [ ] hw 9
 - [ ] Leetcode: 148. Sort List
 - [ ] project 2: Have working code for identifying a network; progress on search
