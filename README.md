@@ -219,7 +219,7 @@ Timeline
 - [x] reading: Goodrich & Tamassia, Sections 11.3.2
 
 *05/28/2019*
-- [ ] hw 9
+- [x] hw 9
 - [ ] Leetcode: 148. Sort List
 - [ ] Leetcode: 547. Friend Circles
 - [ ] Union Find Detect Cycle in Undirected Graph
