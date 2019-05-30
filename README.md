@@ -231,7 +231,7 @@ Timeline
 - [x] lecture note 38
 
 *05/30/2019*
-- [ ] video 25
+- [x] video 25
 - [ ] lecture note 39
 - [ ] reading: Goodrich & Tamassia, Sections 14.1.2-14.1.3
 - [ ] lecture note 40
