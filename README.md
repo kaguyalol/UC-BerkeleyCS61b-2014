@@ -227,7 +227,7 @@ Timeline
 - [x] reading: Goodrich & Tamassia, Section 10.3- 10.3.2
 - [x] lecture note 37
 - [x] lab 13
-- [ ] video 24
+- [x] video 24
 - [ ] lecture note 38
 - [ ] video 25
 - [ ] lecture note 39
