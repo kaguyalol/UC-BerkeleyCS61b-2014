@@ -222,13 +222,15 @@ Timeline
 - [x] hw 9
 - [x] video 23
 
-*05/28/2019*
+*05/29/2019*
 - [x] lecture note 36
 - [x] reading: Goodrich & Tamassia, Section 10.3- 10.3.2
 - [x] lecture note 37
 - [x] lab 13
 - [x] video 24
 - [x] lecture note 38
+
+*05/30/2019*
 - [ ] video 25
 - [ ] lecture note 39
 - [ ] reading: Goodrich & Tamassia, Sections 14.1.2-14.1.3
