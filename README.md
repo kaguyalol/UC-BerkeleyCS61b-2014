@@ -228,7 +228,7 @@ Timeline
 - [x] lecture note 37
 - [x] lab 13
 - [x] video 24
-- [ ] lecture note 38
+- [x] lecture note 38
 - [ ] video 25
 - [ ] lecture note 39
 - [ ] reading: Goodrich & Tamassia, Sections 14.1.2-14.1.3
