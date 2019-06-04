@@ -233,9 +233,11 @@ Timeline
 *05/30/2019*
 - [x] video 25
 - [x] lecture note 39
+
+*06/03/2019*
+- [x] lab 14
 - [ ] reading: Goodrich & Tamassia, Sections 14.1.2-14.1.3
 - [ ] lecture note 40
-- [ ] lab 14
 - [ ] hw 10
 - [ ] lab 15
 - [ ] Understand Fisher–Yates shuffle Algorithm
