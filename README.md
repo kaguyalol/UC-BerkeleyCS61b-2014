@@ -236,9 +236,9 @@ Timeline
 
 *06/03/2019*
 - [x] lab 14
+- [x] hw 10
 - [ ] reading: Goodrich & Tamassia, Sections 14.1.2-14.1.3
 - [ ] lecture note 40
-- [ ] hw 10
 - [ ] lab 15
 - [ ] Understand Fisher–Yates shuffle Algorithm
 - [ ] Leetcode: 148. Sort List
